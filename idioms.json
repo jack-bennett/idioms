@@ -9,7 +9,7 @@
       "idioms": [
         {
           "id": "100",
-          "keywords": "<i>sometopic</i> 101",
+          "keywords": "<i>something</i> 101",
           "paraphrase": "the basics of <i>something</i>",
           "example": "Your bike’s in bad shape. You’re ready for Bicycle Maintenance 101.",
           "origin": "IRT the supposed practice of assigning 101 as the number of any introductory college class. "
@@ -774,7 +774,7 @@
           "paraphrase": "a group of incompetents",
           "example": "What a bunch of yahoos! They have no idea what they’re doing.",
           "comment": "Can also imply a group of boors.",
-          "origin": "IRT a race of brutes in <b><i>Gulliver’s Travels</i></b> (Jonathan Swift)."
+          "origin": "IRT a race of brutes in Jonathan Swift's book <b><i>Gulliver’s Travels</i></b>."
         },
         {
           "id": "11200",
@@ -849,7 +849,7 @@
           "keywords": "by and large",
           "paraphrase": "in general",
           "example": "I agree with your argument by and large, but I do quibble with some of the details.",
-          "origin": "IRT the nautical terms for a ship that sails well on all points (wind directions)."
+          "origin": "IRT the nautical terms for a ship that sails well in all wind directions."
         },
         {
           "id": "12400",
@@ -926,7 +926,7 @@
           "keywords": "canary in the coal mine",
           "paraphrase": "early warning mechanism",
           "example": "Melting ice caps are the canary in the coal mine on climate change.",
-          "origin": "IRT the mining practice of using canaries in coal mines to indicate (by dying) the presence of dangerous gases."
+          "origin": "IRT the mining practice of using canaries in coal mines to indicate by dying the presence of dangerous gases."
         },
         {
           "onHold": "**",
@@ -1631,12 +1631,12 @@
           "example": "Given who proposed it, that idea was dead on arrival."
         },
         {
+          "onHold": "**",
           "prewords": "a",
           "id": "24000",
           "keywords": "dead ringer",
           "paraphrase": "an exact likeness",
-          "example": "A friend of mine gets double-takes all the time because he’s a dead ringer for Willie Nelson.",
-          "origin": "IRT the word \"ringer\", used originally in horse racing to mean an illegal substitute, combined with the word \"dead\" used to mean exact (as in \"dead right\" or \"dead on\")."
+          "example": "A friend of mine gets double-takes all the time because he’s a dead ringer for Willie Nelson."
         },
         {
           "id": "24100",
@@ -3017,7 +3017,7 @@
           "keywords": "high noon",
           "paraphrase": "the critical moment",
           "example": "This is high noon for the team. They must win this game or go home.",
-          "origin": "IRT the historical (and perhaps apocryphal) practice in the American west of holding gunfights at high noon, as memorialized in the movie <b><i>High Noon</i></b>."
+          "origin": "IRT the perhaps apocryphal history that gunfights in the American west were held at high noon, as memorialized in the movie <b><i>High Noon</i></b>."
         },
         {
           "id": "44500",
@@ -3206,7 +3206,7 @@
           "paraphrase": "in <i>one’s</i> imaginary, impractical world",
           "example": "Andy’s off in his ivory tower, dreaming of a post-capitalism world.",
           "comment": "Often used pejoratively.",
-          "origin": "Possibly IRT a graduate research institution at Princeton that was partially sponsored by the founder of the company that manufactured Ivory Soap. (There are earlier uses of the phrase in the Bible (<b><i>Solomon 7:4</i></b>) and in the French poem of 1837 <b><i>Pensées d’Août</i></b>, à M. Villemain.)"
+          "origin": "Possibly IRT a graduate research institution at Princeton that was partially sponsored by the founder of the company that manufactured Ivory Soap. However, there are earlier uses of the phrase in the Bible (<b><i>Solomon 7:4</i></b>) and in the French poem of 1837 <b><i>Pensées d’Août</i></b>, à M. Villemain."
         },
         {
           "id": "47200",
@@ -3980,7 +3980,7 @@
           "keywords": "major leagues",
           "paraphrase": "the top professional levels",
           "example": "You’re in the major leagues now. You have to do your best at all times.",
-          "origin": "IRT sports at the highest professional level — the major league (Major League Baseball, Major League Soccer, etc.)."
+          "origin": "IRT sports at the highest professional level (e.g. Major League Baseball, Major League Soccer)."
         },
         {
           "id": "58300",
@@ -4106,7 +4106,7 @@
           "keywords": "mind (or watch) <i>one’s</i> Ps and Qs",
           "paraphrase": "mind <i>one’s</i> manners",
           "example": "This is a formal dinner, so please mind your Ps and Qs.",
-          "origin": "Of undetermined provenance, but possibly IRT any of several sources: sailors in the 18th century who were admonished to clean up their peas (pea coats) and queues (pony tails) when going ashore; early typesetters who were reminded to be careful not to confuse lowercase p’s and q’s; or a 1763 poem by Charles Churchill containing the line \"And to instruct him how to use / His As and Bs, and Ps and Qs\"."
+          "origin": "Of undetermined provenance, but possibly IRT any of several sources: sailors in the 18th century who were admonished to clean up their peas (pea coats) and queues (braided plaits of hair) when going ashore; early typesetters who were reminded to be careful not to confuse lowercase p’s and q’s; or a 1763 poem by Charles Churchill containing the line \"And to instruct him how to use / His As and Bs, and Ps and Qs\"."
         },
         {
           "id": "60100",
@@ -4490,7 +4490,7 @@
           "keywords": "off the hook",
           "paraphrase": "not responsible",
           "example": "You’re off the hook this time. Everyone gets a second chance.",
-          "origin": "Probably IRT fishing, where being on the hook is unfortunate (for the fish).",
+          "origin": "Probably IRT fishing, where from the fish's point of view being on the hook is unfortunate.",
           "references": [ { "id": "68800", "text": "on the hook" }, { "id": "54500", "text": "let <i>one</i> off the hook" } ]
         },
         {
@@ -4528,7 +4528,7 @@
           "paraphrase": "the long-standing personnel",
           "example": "Professor Andy is one of the old guard, but he’s still open to new ideas.",
           "comment": "Implies personnel accustomed to traditional ways and resistant to change.",
-          "origin": "IRT the changing of the guard at (e.g.) Buckingham Palace, where the current guards are replaced by fresh ones."
+          "origin": "IRT the changing of a military guard, where the current guards are replaced by fresh ones."
         },
         {
           "onHold": "**",
@@ -4579,7 +4579,7 @@
           "keywords": "on <i>one’s</i> toes",
           "paraphrase": "alert",
           "example": "We need to be on our toes and attentive today. These folks always have a hidden agenda.",
-          "origin": "Possibly IRT ballet, where dancers are often on tiptoe, or sports, where it is usually advantageous to be on one’s toes (as opposed to flatfooted)."
+          "origin": "Possibly IRT ballet, where dancers are often on tiptoe, or sports, where it is usually advantageous to be on one’s toes as opposed to flatfooted."
         },
         {
           "id": "66900",
@@ -5379,7 +5379,7 @@
           "paraphrase": "reduce",
           "example": "I’m sorry to put a damper on the festivities, but it’s time to get back to work.",
           "comment": "Implies that the reduction is not welcomed.",
-          "origin": "IRT the device (damper) used in fireplaces and fuel-burning stoves to reduce the amount of air feeding the fire."
+          "origin": "IRT the damper used in fireplaces and fuel-burning stoves to reduce the amount of air feeding the fire."
         },
         {
           "id": "78400",
@@ -6189,7 +6189,7 @@
           "keywords": "sky is falling",
           "paraphrase": "there’s impending disaster",
           "example": "This is certainly a setback, but I don’t think the sky is falling quite yet.",
-          "origin": "IRT the folk tale of a chicken (Chicken Little) who believes the sky is falling when an acorn falls on its head and sets out to alert the world."
+          "origin": "IRT the folk tale of Chicken Little, who believes the sky is falling  and sets out to alert the world after an acorn falls on its head."
         },
         {
           "prewords": "a",
@@ -6233,7 +6233,7 @@
           "keywords": "slush fund",
           "paraphrase": "covert stash of cash",
           "example": "I’ve been regularly putting a little bit of my salary into a slush fund for just such little luxuries.",
-          "origin": "IRT the nautical practice in which a ship’s cook sold the extra fat or grease (the slush) generated from cooking for a little extra cash for supplies for the galley."
+          "origin": "IRT the nautical practice in which a ship’s cook sold the extra fat or grease (the \"slush\") generated from cooking for a little extra cash for supplies for the galley."
         },
         {
           "onHold": "**",
@@ -6437,7 +6437,7 @@
           "keywords": "start (or open) the bidding",
           "paraphrase": "initiate the action",
           "example": "I’m happy to start the bidding. I’d like to go to Yellowstone for our vacation.",
-          "origin": "IRT auctions (and some card games), where the action is initiated when one party makes the first bid."
+          "origin": "IRT auctions and some card games, where the action is initiated when one party makes the first bid."
         },
         {
           "id": "93700",
@@ -6787,7 +6787,7 @@
           "keywords": "take a rain check",
           "paraphrase": "delay acceptance",
           "example": "I can’t make it this evening, so I’ll have to take a rain check.",
-          "origin": "IRT the practice of giving patrons of a sporting event that is canceled due to weather a credit (a rain check) for a later event."
+          "origin": "IRT the practice of giving patrons of an event that is canceled due to weather a credit (a \"rain check\") for a later event."
         },
         {
           "id": "98600",
