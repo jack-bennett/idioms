@@ -1,7 +1,7 @@
 {
   "version": {
     "major": 1,
-    "minor": 1
+    "minor": 0
   },
   "groups": [
     {
@@ -9,7 +9,7 @@
       "idioms": [
         {
           "id": "100",
-          "keywords": "<i>remoteCopy</i> 101",
+          "keywords": "<i>something</i> 101",
           "paraphrase": "the basics of <i>something</i>",
           "example": "Your bike’s in bad shape. You’re ready for Bicycle Maintenance 101.",
           "origin": "IRT the supposed practice of assigning 101 as the number of any introductory college class. "
