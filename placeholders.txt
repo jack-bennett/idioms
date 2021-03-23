@@ -7,3 +7,5 @@
 <i>someone</i>
 <i>something’s</i>
 <i>something</i>
+
+<i>(number|one’s own|one’s|one|oneself|someone’s|someone|something’s|something)</i>
