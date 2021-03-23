@@ -9,8 +9,8 @@
       "idioms": [
         {
           "id": "100",
-          "keywords": "<i>something</i> 101",
-          "paraphrase": "the basics of <i>something</i>",
+          "keywords": "(something) 101",
+          "paraphrase": "the basics of (something)",
           "example": "Your bike’s in bad shape. You’re ready for Bicycle Maintenance 101.",
           "origin": "IRT the supposed practice of assigning 101 as the number of any introductory college class. "
         },
@@ -44,8 +44,8 @@
         },
         {
           "id": "500",
-          "keywords": "above <i>one’s</i> pay grade",
-          "paraphrase": "above <i>one’s</i> authority",
+          "keywords": "above (one’s) pay grade",
+          "paraphrase": "above (one’s) authority",
           "example": "Making a decision regarding that much money is well above my pay grade."
         },
         {
@@ -59,16 +59,16 @@
         {
           "prewords": "an",
           "id": "700",
-          "keywords": "ace up <i>one’s</i> sleeve",
+          "keywords": "ace up (one’s) sleeve",
           "paraphrase": "a hidden conclusive factor",
           "example": "This debate isn’t over yet. She has an ace up her sleeve.",
           "origin": "IRT the supposed practice of cheating at poker by concealing an ace up one’s sleeve."
         },
         {
-          "prewords": "<i>one’s</i>",
+          "prewords": "(one’s)",
           "id": "800",
           "keywords": "achilles heel",
-          "paraphrase": "<i>one’s</i> point of greatest weakness",
+          "paraphrase": "(one’s) point of greatest weakness",
           "example": "She’s a great tennis player, but her serve is her Achilles heel.",
           "origin": "IRT Greek mythology, in which the warrior Achilles was dipped by his mother in the river Styx and so became invulnerable except where she held him by one of his heels."
         },
@@ -88,8 +88,8 @@
         },
         {
           "id": "1100",
-          "keywords": "against <i>one’s</i> grain",
-          "paraphrase": "against <i>one’s</i> nature",
+          "keywords": "against (one’s) grain",
+          "paraphrase": "against (one’s) nature",
           "example": "It goes against her grain to be deceitful.",
           "origin": "Probably IRT carpentry, where wood is damaged when planed against the grain."
         },
@@ -102,8 +102,8 @@
         },
         {
           "id": "1300",
-          "keywords": "air <i>one’s</i> dirty laundry",
-          "paraphrase": "expose <i>one’s</i> embarrassing secrets",
+          "keywords": "air (one’s) dirty laundry",
+          "paraphrase": "expose (one’s) embarrassing secrets",
           "example": "When they have a fight, they tend to air their dirty laundry."
         },
         {
@@ -117,7 +117,7 @@
           "onHold": "**",
           "prewords": "an",
           "id": "1500",
-          "keywords": "albatross around <i>one’s</i> neck",
+          "keywords": "albatross around (one’s) neck",
           "origin": "IRT <b><i>The Rime of the Ancient Mariner</i></b> by Samuel Taylor Coleridge."
         },
         {
@@ -165,7 +165,7 @@
         },
         {
           "id": "2300",
-          "keywords": "another nail in <i>one’s</i> (or the) coffin",
+          "keywords": "another nail in (one’s) (or the) coffin",
           "paraphrase": "another step towards failure",
           "example": "Flunking that course was another nail in her coffin. "
         },
@@ -178,8 +178,8 @@
         {
           "prewords": "the",
           "id": "2500",
-          "keywords": "apple of <i>one’s</i> eye",
-          "paraphrase": "<i>one’s</i> dearest ???",
+          "keywords": "apple of (one’s) eye",
+          "paraphrase": "(one’s) dearest ???",
           "example": "Andy’s the apple of her grandmother’s eye and she’s completely spoiled."
         },
         {
@@ -223,8 +223,8 @@
         },
         {
           "id": "3200",
-          "keywords": "at the top of <i>one’s</i> game",
-          "paraphrase": "operating at <i>one’s</i> best",
+          "keywords": "at the top of (one’s) game",
+          "paraphrase": "operating at (one’s) best",
           "example": "Andy’s won his last several cases. He’s at the top of his game."
         },
         {
@@ -289,8 +289,8 @@
         {
           "prewords": "the",
           "id": "4100",
-          "keywords": "ball’s in <i>one’s</i> court",
-          "paraphrase": "<i>one</i> now has responsibility",
+          "keywords": "ball’s in (one’s) court",
+          "paraphrase": "(one) now has responsibility",
           "example": "The ball’s in your court, Andy. What we do next is your decision.",
           "origin": "IRT tennis, where one must take action when the ball is returned to one’s court."
         },
@@ -337,7 +337,7 @@
         {
           "prewords": "a",
           "id": "4800",
-          "keywords": "bee in <i>one’s</i> bonnet",
+          "keywords": "bee in (one’s) bonnet",
           "paraphrase": "a nagging idea",
           "example": "Andy’s got a bee in her bonnet about a new approach. She can’t let it go until we discuss it."
         },
@@ -378,8 +378,8 @@
         },
         {
           "id": "5400",
-          "keywords": "below <i>one’s</i> pay grade",
-          "paraphrase": "beneath <i>one’s</i> level of responsibility",
+          "keywords": "below (one’s) pay grade",
+          "paraphrase": "beneath (one’s) level of responsibility",
           "example": "That decision is really below my pay grade. You can handle it."
         },
         {
@@ -434,7 +434,7 @@
           "example": "I can’t be bothered with that right now. I’ve got bigger fish to fry."
         },
         {
-          "prewords": "<i>one’s</i>",
+          "prewords": "(one’s)",
           "id": "6300",
           "keywords": "birthday suit",
           "paraphrase": "naked body",
@@ -535,7 +535,7 @@
         },
         {
           "id": "7700",
-          "keywords": "blow (or toot) <i>one’s</i> own horn",
+          "keywords": "blow (or toot) (one’s) own horn",
           "paraphrase": "brag",
           "example": "Andy likes to blow her own horn even for small accomplishments."
         },
@@ -601,8 +601,8 @@
         {
           "prewords": "a",
           "id": "8600",
-          "keywords": "bone to pick with <i>one</i>",
-          "paraphrase": "a contentious issue to discuss with <i>one</i>",
+          "keywords": "bone to pick with (one)",
+          "paraphrase": "a contentious issue to discuss with (one)",
           "example": "Andy, I’ve got a bone to pick with you. I thought you agreed with our strategy."
         },
         {
@@ -627,14 +627,14 @@
         },
         {
           "id": "9000",
-          "keywords": "born on third base and thinks <i>one</i> hit a triple",
-          "paraphrase": "born to advantage but thinks <i>one</i> is highly accomplished",
+          "keywords": "born on third base and thinks (one) hit a triple",
+          "paraphrase": "born to advantage but thinks (one) is highly accomplished",
           "example": "He can’t understand their difficulties, because he was born on third base and thinks he hit a triple. ",
           "origin": "IRT baseball, where hitting a triple is a significant achievement."
         },
         {
           "id": "9100",
-          "keywords": "born with a silver spoon in <i>one’s</i> mouth",
+          "keywords": "born with a silver spoon in (one’s) mouth",
           "paraphrase": "born to privilege",
           "example": "He was born with a silver spoon in his mouth and has never dealt with adversity."
         },
@@ -717,10 +717,10 @@
           "paraphrase": "responsibility lies here"
         },
         {
-          "prewords": "<i>one’s</i>",
+          "prewords": "(one’s)",
           "id": "10400",
           "keywords": "bucket list",
-          "paraphrase": "<i>one’s</i> list of places to go and things to see",
+          "paraphrase": "(one’s) list of places to go and things to see",
           "example": "Traveling to New Zealand has always been on my bucket list.",
           "references": [ { "id": "51800", "text": "kick the bucket" } ],
           "origin": "IRT the idiom <i>kick the bucket</i> to refer to dying, indicating the things one wants to do before dying."
@@ -778,7 +778,7 @@
         },
         {
           "id": "11200",
-          "keywords": "burn <i>one’s</i> bridges",
+          "keywords": "burn (one’s) bridges",
           "paraphrase": "irretrievably damage a relationship",
           "example": "Quit your job if you have to, but there’s no reason to burn your bridges. You may work with some of these folks again."
         },
@@ -802,7 +802,7 @@
         {
           "prewords": "a",
           "id": "11600",
-          "keywords": "burr under <i>one’s</i> saddle",
+          "keywords": "burr under (one’s) saddle",
           "paraphrase": "an annoyance",
           "example": "His poor attitude has been a burr under my saddle for some time now. ",
           "origin": "IRT the fact that a burr or similar item under a saddle irritates and unsettles the horse."
@@ -829,19 +829,19 @@
         {
           "onHold": "**",
           "id": "12000",
-          "keywords": "bust <i>one’s</i> chops",
+          "keywords": "bust (one’s) chops",
           "paraphrase": "work hard"
         },
         {
           "onHold": "**",
           "id": "12100",
-          "keywords": "bust <i>someone’s</i> chops",
-          "paraphrase": "harangue <i>someone</i>"
+          "keywords": "bust (someone’s) chops",
+          "paraphrase": "harangue (someone)"
         },
         {
           "id": "12200",
-          "keywords": "butter <i>someone</i> up",
-          "paraphrase": "behave obsequiously towards <i>someone</i>",
+          "keywords": "butter (someone) up",
+          "paraphrase": "behave obsequiously towards (someone)",
           "example": "Andy always butters up the graduate assistants, hoping for more lenient grading."
         },
         {
@@ -865,7 +865,7 @@
         },
         {
           "id": "12600",
-          "keywords": "by the skin of <i>one’s</i> teeth",
+          "keywords": "by the skin of (one’s) teeth",
           "paraphrase": "barely",
           "example": "We escaped the fire by the skin of our teeth."
         }
@@ -876,15 +876,15 @@
       "idioms": [
         {
           "id": "12700",
-          "keywords": "call <i>one’s</i> bluff",
-          "paraphrase": "oblige <i>one</i> to justify a claim",
+          "keywords": "call (one’s) bluff",
+          "paraphrase": "oblige (one) to justify a claim",
           "example": "I don’t think Andy has the nerve to jump, so I’m calling his bluff.",
           "origin": "IRT poker, where one player may believe another is bluffing and call for the hands to be shown."
         },
         {
           "id": "12800",
-          "keywords": "call <i>one</i> on the carpet",
-          "paraphrase": "summon <i>one</i> for rebuke",
+          "keywords": "call (one) on the carpet",
+          "paraphrase": "summon (one) for rebuke",
           "example": "Andy’s been seriously neglecting his work recently, so his manager called him on the carpet."
         },
         {
@@ -937,7 +937,7 @@
         {
           "onHold": "**",
           "id": "13600",
-          "keywords": "cannot (or can’t) hold a candle to <i>one</i>"
+          "keywords": "cannot (or can’t) hold a candle to (one)"
         },
         {
           "prewords": "the",
@@ -956,14 +956,14 @@
         },
         {
           "id": "13900",
-          "keywords": "carry <i>one’s</i> water",
-          "paraphrase": "be servile to <i>one</i>",
+          "keywords": "carry (one’s) water",
+          "paraphrase": "be servile to (one)",
           "example": "He’s always willing to carry the professor’s water in hopes of improving his standing."
         },
         {
           "id": "14000",
-          "keywords": "carry a torch for <i>one</i>",
-          "paraphrase": "hopie for a romantic relationship with <i>one</i>",
+          "keywords": "carry a torch for (one)",
+          "paraphrase": "hopie for a romantic relationship with (one)",
           "example": "Andy’s been carrying a torch for him ever since they met."
         },
         {
@@ -993,8 +993,8 @@
         },
         {
           "id": "14500",
-          "keywords": "cash in <i>one’s</i> chips",
-          "paraphrase": "take <i>one’s</i> gains and leave",
+          "keywords": "cash in (one’s) chips",
+          "paraphrase": "take (one’s) gains and leave",
           "example": "I’m tired of this job. It’s time for me to cash in my chips."
         },
         {
@@ -1011,8 +1011,8 @@
         },
         {
           "id": "14800",
-          "keywords": "cat has <i>one’s</i> tongue",
-          "paraphrase": "<i>one</i> is inexplicably silent",
+          "keywords": "cat has (one’s) tongue",
+          "paraphrase": "(one) is inexplicably silent",
           "example": "Don’t you have anything to say about this? Has the cat got your tongue??"
         },
         {
@@ -1035,23 +1035,23 @@
         },
         {
           "id": "15200",
-          "keywords": "catch <i>one</i> dead to rights",
-          "paraphrase": "catch <i>one</i> in the act ",
+          "keywords": "catch (one) dead to rights",
+          "paraphrase": "catch (one) in the act ",
           "example": "Andy got caught dead to rights cheating on his diet.",
           "comment": "Often implies an illegal or forbidden act."
         },
         {
           "id": "15300",
-          "keywords": "catch <i>one</i> red-handed",
-          "paraphrase": "catch <i>one</i> in the act ",
+          "keywords": "catch (one) red-handed",
+          "paraphrase": "catch (one) in the act ",
           "example": "Andy got caught red-handed cheating on his diet.",
           "comment": "Often implies an illegal or forbidden act."
         },
         {
           "onHold": "**",
           "id": "15400",
-          "keywords": "catch <i>one</i> with <i>one’s</i> hand in the cookie jar",
-          "paraphrase": "catch <i>one</i> stealing"
+          "keywords": "catch (one) with (one’s) hand in the cookie jar",
+          "paraphrase": "catch (one) stealing"
         },
         {
           "id": "15500",
@@ -1121,8 +1121,8 @@
         },
         {
           "id": "16500",
-          "keywords": "change <i>one’s</i> tune",
-          "paraphrase": "change <i>one’s</i> attitude",
+          "keywords": "change (one’s) tune",
+          "paraphrase": "change (one’s) attitude",
           "example": "Andy’s changed his tune since he found out she’s interested in him."
         },
         {
@@ -1194,7 +1194,7 @@
         {
           "prewords": "a",
           "id": "17600",
-          "keywords": "chip on <i>one’s</i> shoulder",
+          "keywords": "chip on (one’s) shoulder",
           "paraphrase": "a defensive attitude",
           "example": "Andy’s always had a chip on his shoulder about coming from a humble background."
         },
@@ -1239,8 +1239,8 @@
         },
         {
           "id": "18300",
-          "keywords": "clean <i>one’s</i> clock",
-          "paraphrase": "completely defeat <i>one</i>",
+          "keywords": "clean (one’s) clock",
+          "paraphrase": "completely defeat (one)",
           "example": "He thought he was good at poker, but Andy cleaned his clock."
         },
         {
@@ -1358,7 +1358,7 @@
         {
           "id": "20000",
           "keywords": "come out of the closet",
-          "paraphrase": "reveal <i>one’s</i> own secret",
+          "paraphrase": "reveal (one’s) own secret",
           "example": "It’s no secret among his friends that Andy comes from a very poor background, but he has yet to come out of the closet.",
           "comment": "Implies a secret perceived to be shameful."
         },
@@ -1408,7 +1408,7 @@
         {
           "onHold": "**",
           "id": "20700",
-          "keywords": "cool <i>one’s</i> jets"
+          "keywords": "cool (one’s) jets"
         },
         {
           "id": "20800",
@@ -1418,7 +1418,7 @@
         },
         {
           "id": "20900",
-          "keywords": "count <i>one’s</i> chickens",
+          "keywords": "count (one’s) chickens",
           "paraphrase": "prematurely assume a positive outcome",
           "example": "Don’t count your chickens yet. There are still some uncounted votes.",
           "comment": "Sometimes followed by \"before they’re hatched\"."
@@ -1458,7 +1458,7 @@
         },
         {
           "id": "21500",
-          "keywords": "cross <i>one’s</i> Rubicon",
+          "keywords": "cross (one’s) Rubicon",
           "paraphrase": "make an irrevocable commitment",
           "example": "Andy has crossed his Rubicon. He publicly declared his candidacy today.",
           "comment": "Often implies that a commitment is also risky."
@@ -1471,15 +1471,15 @@
         },
         {
           "id": "21700",
-          "keywords": "cross that bridge when <i>one</i> gets to it",
+          "keywords": "cross that bridge when (one) gets to it",
           "paraphrase": "deal with something when it arises",
           "example": "We don’t know what we’ll find, so we’ll just cross that bridge when we get to it."
         },
         {
-          "prewords": "<i>one’s</i>",
+          "prewords": "(one’s)",
           "id": "21800",
           "keywords": "cross to bear",
-          "paraphrase": "<i>one’s</i> responsibility",
+          "paraphrase": "(one’s) responsibility",
           "example": "Don’t worry. Taking care of the in-laws will be my cross to bear.",
           "comment": "Implies an undesirable responsibility. Often used facetiously.",
           "origin": "IRT the Christian tradition that Jesus was forced to carry the cross on which he was crucified."
@@ -1499,10 +1499,10 @@
           "origin": "IRT Aesop’s fable <b><i>The Boy Who Cried Wolf</i></b>."
         },
         {
-          "prewords": "<i>one’s</i>",
+          "prewords": "(one’s)",
           "id": "22100",
           "keywords": "cup of tea",
-          "paraphrase": "<i>one’s</i> preference",
+          "paraphrase": "(one’s) preference",
           "example": "Spending a whole evening playing cards is just not my cup of tea.",
           "comment": "Usually used in the negative."
         },
@@ -1523,8 +1523,8 @@
         },
         {
           "id": "22400",
-          "keywords": "cut <i>one’s</i> teeth on",
-          "paraphrase": "learned <i>one</i>’s initial skills from",
+          "keywords": "cut (one’s) teeth on",
+          "paraphrase": "learned (one)’s initial skills from",
           "example": "Andy gave me a small project to cut my teeth on."
         },
         {
@@ -1557,15 +1557,15 @@
         {
           "onHold": "**",
           "id": "22900",
-          "keywords": "cut of <i>one’s</i> jib",
-          "paraphrase": "<i>one’s</i> apparent [good] character",
+          "keywords": "cut of (one’s) jib",
+          "paraphrase": "(one’s) apparent [good] character",
           "example": "I really like the cut of his jib. I think he’ll do a good job for us.",
           "comment": "archaic"
         },
         {
           "id": "23000",
           "keywords": "cut the cord",
-          "paraphrase": "make <i>one</i> independent",
+          "paraphrase": "make (one) independent",
           "example": "It’s time to cut the cord and let you work on your own.",
           "origin": "IRT the practice of cutting the umbilical cord when a child is born."
         },
@@ -1593,10 +1593,10 @@
       "name": "D",
       "idioms": [
         {
-          "prewords": "<i>one’s</i>",
+          "prewords": "(one’s)",
           "id": "23400",
           "keywords": "dance card is full",
-          "paraphrase": "<i>one’s</i> schedule is full",
+          "paraphrase": "(one’s) schedule is full",
           "example": "My dance card is full this week. Can we meet next week instead?"
         },
         {
@@ -1747,10 +1747,11 @@
         },
         {
           "id": "25700",
-          "keywords": "door number <i>number</i>",
-          "paraphrase": "the <i>number</i> choice",
+          "keywords": "door number (number)",
+          "paraphrase": "option (number)",
           "example": "After hearing all the alternatives Andy opted for door number two.",
-          "origin": "IRT the TV game show <b><i>Let’s Make a Deal</i></b> where contestants chose one of three doors to receive as a prize whatever was behind it."
+          "origin": "IRT the TV game show <b><i>Let’s Make a Deal</i></b> where contestants chose one of three doors to receive as a prize whatever was behind it.",
+          "comment": "The number is almost always 1, 2, or 3."
         },
         {
           "id": "25800",
@@ -1819,7 +1820,7 @@
         {
           "id": "26800",
           "keywords": "dressed to the nines",
-          "paraphrase": "dressed in <i>one’s</i> finest",
+          "paraphrase": "dressed in (one’s) finest",
           "example": "It was prom night and the kids were all dressed to the nines."
         },
         {
@@ -1838,7 +1839,7 @@
         {
           "id": "27100",
           "keywords": "drop the ball",
-          "paraphrase": "fail <i>one’s</i> responsibilities",
+          "paraphrase": "fail (one’s) responsibilities",
           "example": "I confess that I dropped the ball on that assignment."
         },
         {
@@ -1870,28 +1871,28 @@
       "idioms": [
         {
           "id": "27500",
-          "keywords": "earn <i>one’s</i> stripes",
-          "paraphrase": "earn <i>one’s</i> credentials",
+          "keywords": "earn (one’s) stripes",
+          "paraphrase": "earn (one’s) credentials",
           "example": "Andy’s earned his stripes and is definitely ready for more responsibility.",
           "origin": "IRT the military, where stripes are in some situations an indication of rank."
         },
         {
           "id": "27600",
-          "keywords": "eat <i>one’s</i> lunch",
-          "paraphrase": "completely defeat <i>one</i>",
+          "keywords": "eat (one’s) lunch",
+          "paraphrase": "completely defeat (one)",
           "example": "He thought he was good at poker, but Andy ate his lunch."
         },
         {
           "id": "27700",
           "keywords": "eat crow",
-          "paraphrase": "admit <i>one’s</i> error",
+          "paraphrase": "admit (one’s) error",
           "example": "Andy had to eat crow after his solution proved unworkable.",
           "comment": "Implies that one strongly advocated for the error."
         },
         {
           "id": "27800",
           "keywords": "eat humble pie",
-          "paraphrase": "admit <i>one’s</i> error",
+          "paraphrase": "admit (one’s) error",
           "example": "Andy had to eat humble pie after his solution proved unworkable.",
           "comment": "Implies that one strongly advocated for the error.",
           "origin": "IRT the word \"umbles\" meaning  the entrails of an animal, usually considered inferior food."
@@ -1950,8 +1951,8 @@
         {
           "prewords": "the",
           "id": "28600",
-          "keywords": "end of <i>one’s</i> tether",
-          "paraphrase": "the limit of <i>one’s</i> patience",
+          "keywords": "end of (one’s) tether",
+          "paraphrase": "the limit of (one’s) patience",
           "example": "Andy is at the end of her tether with all these niggling criticisms."
         },
         {
@@ -1985,7 +1986,7 @@
         {
           "id": "29000",
           "keywords": "face the music",
-          "paraphrase": "accept <i>one’s</i> reprimands",
+          "paraphrase": "accept (one’s) reprimands",
           "example": "I got caught, so it looks like I have to go face the music."
         },
         {
@@ -2011,8 +2012,8 @@
         },
         {
           "id": "29400",
-          "keywords": "fall on <i>one’s own</i> sword",
-          "paraphrase": "sacrifice <i>oneself</i>",
+          "keywords": "fall on (one’s own) sword",
+          "paraphrase": "sacrifice (oneself)",
           "example": "Andy had to fall on her sword, because her boss certainly wasn’t going to take the blame.",
           "comment": "Implies sacrificing oneself to protect one’s superior. This can only be said of a person falling on his or her own sword. No one can be said to fall on someone else’s sword.",
           "origin": "IRT to the historical Japanese Samurai practice of ritual suicide intended to redeem one’s honor and performed by disemboweling oneself with a sword."
@@ -2051,7 +2052,7 @@
         {
           "prewords": "a",
           "id": "30000",
-          "keywords": "feather in <i>one’s</i> cap",
+          "keywords": "feather in (one’s) cap",
           "paraphrase": "recognized accomplishment",
           "example": "That Andy did such a good job is a feather in her cap."
         },
@@ -2129,7 +2130,7 @@
         {
           "prewords": "the",
           "id": "31100",
-          "keywords": "final nail in <i>one’s</i> (or the) coffin",
+          "keywords": "final nail in (one’s) (or the) coffin",
           "paraphrase": "the final step to failure",
           "example": "She’s gone. Flunking that course was the final nail in her coffin. "
         },
@@ -2204,8 +2205,8 @@
         },
         {
           "id": "32200",
-          "keywords": "fly by the seat of <i>one’s</i> pants",
-          "paraphrase": "proceed solely by <i>one’s</i> intuition",
+          "keywords": "fly by the seat of (one’s) pants",
+          "paraphrase": "proceed solely by (one’s) intuition",
           "example": "No, I didn’t look at the instructions. I’m flying by the seat of my pants.",
           "comment": "Always used in reference to the same person performing the action. One cannot fly by the seat of someone else’s pants."
         },
@@ -2231,7 +2232,7 @@
         },
         {
           "id": "32600",
-          "keywords": "fold <i>one’s</i> tents",
+          "keywords": "fold (one’s) tents",
           "paraphrase": "prepare to leave",
           "example": "The conference wasn’t going well for them, so they folded their tents and went home early."
         },
@@ -2354,38 +2355,38 @@
         },
         {
           "id": "34400",
-          "keywords": "get (or have) <i>one’s</i> ducks in a row",
+          "keywords": "get (or have) (one’s) ducks in a row",
           "paraphrase": "get everything ready for action",
           "example": "She’s got her ducks in a row and feels completely ready for the meeting."
         },
         {
           "id": "34500",
-          "keywords": "get (or leave) egg on <i>one’s</i> face",
-          "paraphrase": "embarrass <i>one</i>",
+          "keywords": "get (or leave) egg on (one’s) face",
+          "paraphrase": "embarrass (one)",
           "example": "That gaff at dinner certainly left egg on Andy’s face."
         },
         {
           "id": "34600",
-          "keywords": "get <i>one’s</i> goat",
-          "paraphrase": "annoy <i>one</i>",
+          "keywords": "get (one’s) goat",
+          "paraphrase": "annoy (one)",
           "example": "Your comment about Andy’s brother really got her goat."
         },
         {
           "id": "34700",
-          "keywords": "get <i>one’s</i> hands dirty",
+          "keywords": "get (one’s) hands dirty",
           "paraphrase": "do hard detailed work",
           "example": "Andy’s and hard worker and willing to get her hands dirty."
         },
         {
           "id": "34800",
-          "keywords": "get <i>one’s</i> kicks",
-          "paraphrase": "get <i>one’s</i> thrills",
+          "keywords": "get (one’s) kicks",
+          "paraphrase": "get (one’s) thrills",
           "example": "Andy gets his kicks by skiing recklessly, so I stay away from him."
         },
         {
           "onHold": "**",
           "id": "34900",
-          "keywords": "get <i>one’s</i> ticket punched"
+          "keywords": "get (one’s) ticket punched"
         },
         {
           "onHold": "**",
@@ -2417,7 +2418,7 @@
         {
           "id": "35400",
           "keywords": "get cold feet",
-          "paraphrase": "lose <i>one’s</i> courage",
+          "paraphrase": "lose (one’s) courage",
           "example": "Andy was going to ask her out, but he got cold feet."
         },
         {
@@ -2436,7 +2437,7 @@
         },
         {
           "id": "35700",
-          "keywords": "get on <i>one’s</i> soapbox (or be on <i>one’s</i> soapbox)",
+          "keywords": "get on (one’s) soapbox (or be on (one’s) soapbox)",
           "paraphrase": "become preachy",
           "example": "Andy always gets on his soapbox when politics enters the conversation.",
           "comment": "Implies monopolizing conversation."
@@ -2506,15 +2507,15 @@
         },
         {
           "id": "36800",
-          "keywords": "give <i>one</i> the old heave-ho (or heave ho)",
-          "paraphrase": "get rid of <i>one</i> ",
+          "keywords": "give (one) the old heave-ho (or heave ho)",
+          "paraphrase": "get rid of (one) ",
           "example": "They gave the coach the old heave-ho after three unsuccessful seasons.",
           "comment": "Often used to indicate firing someone."
         },
         {
           "id": "36900",
-          "keywords": "give <i>one</i> the slip",
-          "paraphrase": "escape being followed by <i>one</i>",
+          "keywords": "give (one) the slip",
+          "paraphrase": "escape being followed by (one)",
           "example": "Those kids tried to follow us, but we went out the side door and gave them the slip.",
           "origin": "IRT the nautical practice of completely releasing, or slipping, the anchor cable so as to escape quickly."
         },
@@ -2710,8 +2711,8 @@
         },
         {
           "id": "39900",
-          "keywords": "grease <i>one’s</i> palm",
-          "paraphrase": "bribe <i>one</i>",
+          "keywords": "grease (one’s) palm",
+          "paraphrase": "bribe (one)",
           "example": "Even though it’s illegal, you’re expected to grease people’s palms when doing business in many foreign countries."
         },
         {
@@ -2786,12 +2787,12 @@
         {
           "onHold": "**",
           "id": "41000",
-          "keywords": "handed <i>one’s</i> hat"
+          "keywords": "handed (one’s) hat"
         },
         {
           "id": "41100",
-          "keywords": "handle <i>one</i> with kid gloves",
-          "paraphrase": "treat <i>one</i> delicately",
+          "keywords": "handle (one) with kid gloves",
+          "paraphrase": "treat (one) delicately",
           "example": "She’s vain and sensitive. You’d better handle her with kid gloves."
         },
         {
@@ -2811,8 +2812,8 @@
         },
         {
           "id": "41400",
-          "keywords": "hang <i>one</i> out to dry",
-          "paraphrase": "abandon <i>one</i>",
+          "keywords": "hang (one) out to dry",
+          "paraphrase": "abandon (one)",
           "example": "He was just doing his job, but when the problems arose the company hung him out to dry."
         },
         {
@@ -2866,41 +2867,41 @@
         },
         {
           "id": "42200",
-          "keywords": "has <i>one’s</i> fingerprints all over it",
-          "paraphrase": "shows strong evidence of <i>one’s</i> involvement",
+          "keywords": "has (one’s) fingerprints all over it",
+          "paraphrase": "shows strong evidence of (one’s) involvement",
           "example": "It’s hard to know for sure, but this joke has Andy’s fingerprints all over it."
         },
         {
           "id": "42300",
-          "keywords": "have (or get) <i>one</i> up a tree",
-          "paraphrase": "leave <i>one</i> with no escape",
+          "keywords": "have (or get) (one) up a tree",
+          "paraphrase": "leave (one) with no escape",
           "example": "They’ve rejected every one of his arguments, so now they have him up a tree."
         },
         {
           "onHold": "**",
           "id": "42400",
-          "keywords": "have <i>one’s</i> back",
-          "paraphrase": "be protective of <i>one</i>"
+          "keywords": "have (one’s) back",
+          "paraphrase": "be protective of (one)"
         },
         {
           "id": "42500",
-          "keywords": "have <i>one’s</i> head in the sand",
+          "keywords": "have (one’s) head in the sand",
           "paraphrase": "remain willfully ignorant",
           "example": "Climate change is an impending disaster, but too many people have their heads in the sand.",
           "origin": "IRT ostriches, which are mistakenly thought to bury their heads in sand thinking they have thereby escaped danger."
         },
         {
           "id": "42600",
-          "keywords": "have <i>one’s</i> work cut out for <i>one</i>",
-          "paraphrase": "have <i>one’s</i> work clearly defined",
+          "keywords": "have (one’s) work cut out for (one)",
+          "paraphrase": "have (one’s) work clearly defined",
           "example": "This cabin needs so many repairs. We’ve got our work cut out for us.",
           "comment": "Implies challenging work."
         },
         {
           "onHold": "**",
           "id": "42700",
-          "keywords": "have <i>something</i>, will travel",
-          "paraphrase": "have expertise in <i>something</i>",
+          "keywords": "have (something), will travel",
+          "paraphrase": "have expertise in (something)",
           "origin": "Paladin"
         },
         {
@@ -2911,7 +2912,7 @@
         },
         {
           "id": "42900",
-          "keywords": "have the bit between <i>one’s</i> teeth",
+          "keywords": "have the bit between (one’s) teeth",
           "paraphrase": "be fully in action",
           "example": "Andy didn’t want to take that project on, but now she has the bit between her teeth."
         },
@@ -2952,8 +2953,8 @@
         },
         {
           "id": "43500",
-          "keywords": "hear <i>something</i> through the grape vine",
-          "paraphrase": "hear <i>something</i> via rumor",
+          "keywords": "hear (something) through the grape vine",
+          "paraphrase": "hear (something) via rumor",
           "example": "I heard through the grape vine that he and Andy are seeing each other now."
         },
         {
@@ -3009,7 +3010,7 @@
           "keywords": "high bar",
           "paraphrase": "a demanding standard",
           "example": "They set a very high bar for admittance to the club.",
-          "references": [ { "id": "57300", "text": "a low bar" }, { "id": "87400", "text": "set the bar (too) low" }, { "id": "87300", "text": "set the bar (too) high" } ],
+          "references": [ { "id": "57300", "text": "a low bar" }, { "id": "87400", "text": "set the bar low" }, { "id": "87300", "text": "set the bar high" } ],
           "origin": "IRT to high-jumping in track and field, where a higher bar makes the jump harder."
         },
         {
@@ -3017,7 +3018,7 @@
           "keywords": "high noon",
           "paraphrase": "the critical moment",
           "example": "This is high noon for the team. They must win this game or go home.",
-          "origin": "IRT the perhaps apocryphal history that gunfights in the American west were held at high noon, as memorialized in the movie <b><i>High Noon</i></b>."
+          "origin": "IRT the perhaps apocryphal tradition that gunfights in the American west were held at high noon, as memorialized in the movie <b><i>High Noon</i></b>."
         },
         {
           "id": "44500",
@@ -3087,14 +3088,14 @@
         },
         {
           "id": "45500",
-          "keywords": "hoist by <i>one’s</i> own petard",
-          "paraphrase": "snared by <i>one’s</i> own arguments",
+          "keywords": "hoist by (one’s) own petard",
+          "paraphrase": "snared by (one’s) own arguments",
           "example": "Andy’s been arguing that they must stick to the budget, but now that he’s got a big project in mind, he’s being hoist by his own petard."
         },
         {
           "id": "45600",
-          "keywords": "hold <i>one’s</i> feet to the fire",
-          "paraphrase": "make <i>one</i> suffer",
+          "keywords": "hold (one’s) feet to the fire",
+          "paraphrase": "make (one) suffer",
           "example": "The execs are holding Andy’s feet to the fire until she changes her mind.",
           "references": [ { "id": "99300", "text": "take the heat" } ],
           "origin": "IRT a medieval form of torture."
@@ -3109,7 +3110,7 @@
         {
           "id": "45800",
           "keywords": "hold serve",
-          "paraphrase": "maintain <i>one’s</i> position",
+          "paraphrase": "maintain (one’s) position",
           "example": "They’ve tried very hard to get Andy’s project derailed, but so far she’s holding serve.",
           "origin": "IRT tennis, where to hold serve is to win the game in which one is serving, or volleyball, where a team wins a point on which it served and thus retains the serve."
         },
@@ -3151,7 +3152,7 @@
           "prewords": "a",
           "id": "46400",
           "keywords": "horse headed for the barn",
-          "paraphrase": "<i>someone</i> rushing to finish",
+          "paraphrase": "(someone) rushing to finish",
           "example": "Andy’s on the last chapter of her thesis and she’s like a horse headed for the barn."
         },
         {
@@ -3197,13 +3198,13 @@
         {
           "onHold": "**",
           "id": "47000",
-          "keywords": "in <i>one’s</i> wheelhouse",
-          "paraphrase": "in <i>one’s</i> area of expertise"
+          "keywords": "in (one’s) wheelhouse",
+          "paraphrase": "in (one’s) area of expertise"
         },
         {
           "id": "47100",
-          "keywords": "in <i>one’s</i> ivory tower",
-          "paraphrase": "in <i>one’s</i> imaginary, impractical world",
+          "keywords": "in (one’s) ivory tower",
+          "paraphrase": "in (one’s) imaginary, impractical world",
           "example": "Andy’s off in his ivory tower, dreaming of a post-capitalism world.",
           "comment": "Often used pejoratively.",
           "origin": "Possibly IRT a graduate research institution at Princeton that was partially sponsored by the founder of the company that manufactured Ivory Soap. However, there are earlier uses of the phrase in the Bible (<b><i>Solomon 7:4</i></b>) and in the French poem of 1837 <b><i>Pensées d’Août</i></b>, à M. Villemain."
@@ -3223,14 +3224,14 @@
         },
         {
           "id": "47400",
-          "keywords": "in a league of <i>one’s</i> own",
+          "keywords": "in a league of (one’s) own",
           "paraphrase": "at a distinctly high level of competence",
           "example": "I’m good at what I do, but Andy is in a league of her own."
         },
         {
           "id": "47500",
           "keywords": "in a slump",
-          "paraphrase": "not functioning up to <i>one’s</i> usual standard",
+          "paraphrase": "not functioning up to (one’s) usual standard",
           "example": "Andy’s in a real slump. He hasn’t won a match in weeks."
         },
         {
@@ -3402,8 +3403,8 @@
       "idioms": [
         {
           "id": "50100",
-          "keywords": "jerking <i>one’s</i> chain",
-          "paraphrase": "teasing <i>one</i>",
+          "keywords": "jerking (one’s) chain",
+          "paraphrase": "teasing (one)",
           "example": "You can ignore Andy. He just likes to jerk people’s chains.",
           "comment": "Can imply intentionally annoying teasing.",
           "origin": "Possibly IRT the once common practice of bear-baiting, where a bear chained to a post was set upon by dogs."
@@ -3498,21 +3499,21 @@
         },
         {
           "id": "51400",
-          "keywords": "keep <i>one’s</i> eye on the ball",
+          "keywords": "keep (one’s) eye on the ball",
           "paraphrase": "pay attention",
           "example": "There are so many distractions at work that it’s hard to keep my eye on the ball."
         },
         {
           "id": "51500",
-          "keywords": "keep <i>one’s</i> powder dry",
+          "keywords": "keep (one’s) powder dry",
           "paraphrase": "conserve resources",
           "example": "This is just the beginning of our negotiations. We need to keep our powder dry until we reach the critical issues.",
           "origin": "IRT early muzzle-loading rifles, the use of which required carrying a separate stash of gunpowder that had to be kept dry."
         },
         {
           "id": "51600",
-          "keywords": "keep <i>one’s own</i> nose clean",
-          "paraphrase": "behave <i>oneself</i>",
+          "keywords": "keep (one’s own) nose clean",
+          "paraphrase": "behave (oneself)",
           "example": "Keep your nose clean this term. I don’t want to hear any bad reports.",
           "comment": "Usually used as a command."
         },
@@ -3616,7 +3617,7 @@
           "prewords": "a",
           "id": "53000",
           "keywords": "lame duck",
-          "paraphrase": "at the end of <i>one’s</i> tenure",
+          "paraphrase": "at the end of (one’s) tenure",
           "example": "They’ve already hired a new coach, so Andy’s a lame duck — no one will listen to her.",
           "comment": "Occurs when someone has been supplanted but is still in position."
         },
@@ -3657,7 +3658,7 @@
         },
         {
           "id": "53600",
-          "keywords": "lay (or put) <i>one’s</i> cards on the table",
+          "keywords": "lay (or put) (one’s) cards on the table",
           "paraphrase": "be honest",
           "example": "Being coy hasn’t gotten us anywhere in these negotiations. It’s time for us all to lay our cards on the table.",
           "origin": "IRT various card games where competitors lay their cards out to determine who wins."
@@ -3690,16 +3691,16 @@
         },
         {
           "id": "54100",
-          "keywords": "left <i>one’s</i> calling card",
-          "paraphrase": "left evidence of <i>one’s</i> presence",
+          "keywords": "leave (one’s) calling card",
+          "paraphrase": "leave evidence of (one’s) presence",
           "example": "Looks like the kids left their calling card. There are dirty dishes in the sink.",
           "comment": "Can imply unwelcome evidence.",
           "origin": "IRT the historical practice in high society of leaving a personal card to indicate that one visited when the intended recipient of the visit was absent."
         },
         {
           "id": "54200",
-          "keywords": "left <i>one</i> in the lurch",
-          "paraphrase": "abandoned <i>one</i>",
+          "keywords": "left (one) in the lurch",
+          "paraphrase": "abandoned (one)",
           "example": "He promised to help with Andy’s project, but he went on vacation instead and left her in the lurch.",
           "origin": "IRT cribbage, where \"lurch\" refers to a decisive defeat in which one wins a game by more than double the opponent’s score."
         },
@@ -3718,8 +3719,8 @@
         },
         {
           "id": "54500",
-          "keywords": "let <i>one</i> off the hook",
-          "paraphrase": "pardon <i>one</i>",
+          "keywords": "let (one) off the hook",
+          "paraphrase": "pardon (one)",
           "example": "He has a good record, so the sergeant let him off the hook with just a reprimand this time.",
           "references": [ { "id": "68800", "text": "on the hook" }, { "id": "65500", "text": "off the hook" } ]
         },
@@ -3766,13 +3767,13 @@
         },
         {
           "id": "55200",
-          "keywords": "lick <i>one’s</i> chops",
+          "keywords": "lick (one’s) chops",
           "paraphrase": "anticipate eagerly",
           "example": "Andy is so prepared for this exam that he’s just licking his chops."
         },
         {
           "id": "55300",
-          "keywords": "lick <i>one’s</i> wounds",
+          "keywords": "lick (one’s) wounds",
           "paraphrase": "recover from a defeat",
           "example": "Andy didn’t do at all well on the exam, so he’s off licking his wounds."
         },
@@ -3847,7 +3848,7 @@
           "origin": "IRT to early firearms, which consisted primarily of three parts: the lock or firing mechanism, the stock held against the shoulder to support the firearm when firing, and the barrel from which the bullet was projected."
         },
         {
-          "prewords": "<i>one’s</i>",
+          "prewords": "(one’s)",
           "id": "56400",
           "keywords": "long (or strong) suit",
           "paraphrase": "primary capability",
@@ -3897,15 +3898,15 @@
         },
         {
           "id": "57100",
-          "keywords": "lose <i>one’s</i> bearings",
+          "keywords": "lose (one’s) bearings",
           "paraphrase": "become disoriented",
           "example": "Andy lost his bearings when he lost his job. He doesn’t know what to do with himself.",
           "origin": "IRT navigation, where taking a bearing with a sextant or a map and compass means identifying where one is relative to the target of the bearing."
         },
         {
           "id": "57200",
-          "keywords": "lose <i>one’s</i> shirt",
-          "paraphrase": "lose all <i>one’s</i> assets",
+          "keywords": "lose (one’s) shirt",
+          "paraphrase": "lose all (one’s) assets",
           "example": "Andy put everything into her startup, but it failed and she lost her shirt."
         },
         {
@@ -3914,7 +3915,7 @@
           "keywords": "low bar",
           "paraphrase": "an undemanding standard",
           "example": "Aiming to be as good a pianist as I am is setting yourself a pretty low bar. ",
-          "references": [ { "id": "44300", "text": "a high bar" }, { "id": "87400", "text": "set the bar (too) low" }, { "id": "87300", "text": "set the bar (too) high" } ],
+          "references": [ { "id": "44300", "text": "a high bar" }, { "id": "87400", "text": "set the bar low" }, { "id": "87300", "text": "set the bar high" } ],
           "origin": "IRT to high-jumping in track and field, where a lower bar makes the jump easier."
         },
         {
@@ -3984,13 +3985,13 @@
         },
         {
           "id": "58300",
-          "keywords": "make (or take) a pass at <i>something</i>",
-          "paraphrase": "give <i>something</i> a try",
+          "keywords": "make (or take) a pass at (something)",
+          "paraphrase": "give (something) a try",
           "example": "Everyone else has tried to fix it. There’s no harm in my making a pass at it."
         },
         {
           "id": "58400",
-          "keywords": "make <i>one</i> sweat",
+          "keywords": "make (one) sweat",
           "paraphrase": "apply pressure",
           "example": "Andy thought her oral exam would be easy, but they made her sweat."
         },
@@ -4024,17 +4025,17 @@
         },
         {
           "id": "58900",
-          "keywords": "march to a different (or <i>one’s</i> own) drum (or drummer)",
-          "paraphrase": "follow <i>one’s</i> own unique approach",
+          "keywords": "march to a different (or (one’s) own) drum (or drummer)",
+          "paraphrase": "follow (one’s) own unique approach",
           "example": "Andy has always marched to a different drum. She’s very creative but a bit eccentric.",
           "references": [ { "id": "59000", "text": "march to the beat of a different drum" } ]
         },
         {
           "id": "59000",
           "keywords": "march to the beat of a different drum",
-          "paraphrase": "follow <i>one’s</i> own unique approach",
+          "paraphrase": "follow (one’s) own unique approach",
           "example": "Andy has always marched to a different drum. She’s very creative but a bit eccentric.",
-          "references": [ { "id": "58900", "text": "march to a different (or <i>one’s</i> own) drum (or drummer)" } ]
+          "references": [ { "id": "58900", "text": "march to a different (or (one’s) own) drum (or drummer)" } ]
         },
         {
           "id": "59100",
@@ -4052,8 +4053,8 @@
         },
         {
           "id": "59300",
-          "keywords": "meet <i>one’s</i> Waterloo",
-          "paraphrase": "suffer <i>one’s</i> final, complete defeat",
+          "keywords": "meet (one’s) Waterloo",
+          "paraphrase": "suffer (one’s) final, complete defeat",
           "example": "They had a great series of upsets, but they met their Waterloo when they played the previous champs.",
           "origin": "IRT the historical battle at Waterloo in Belgium where the French general Napoleon met his final defeat."
         },
@@ -4103,8 +4104,8 @@
         {
           "onHold": "**",
           "id": "60000",
-          "keywords": "mind (or watch) <i>one’s</i> Ps and Qs",
-          "paraphrase": "mind <i>one’s</i> manners",
+          "keywords": "mind (or watch) (one’s) Ps and Qs",
+          "paraphrase": "mind (one’s) manners",
           "example": "This is a formal dinner, so please mind your Ps and Qs.",
           "origin": "Of undetermined provenance, but possibly IRT any of several sources: sailors in the 18th century who were admonished to clean up their peas (pea coats) and queues (braided plaits of hair) when going ashore; early typesetters who were reminded to be careful not to confuse lowercase p’s and q’s; or a 1763 poem by Charles Churchill containing the line \"And to instruct him how to use / His As and Bs, and Ps and Qs\"."
         },
@@ -4156,7 +4157,7 @@
         {
           "onHold": "**",
           "id": "60700",
-          "keywords": "monkey on <i>one’s</i> back",
+          "keywords": "monkey on (one’s) back",
           "paraphrase": "a tenacious personal problem"
         },
         {
@@ -4175,8 +4176,8 @@
         {
           "onHold": "**",
           "id": "61000",
-          "keywords": "mothball <i>something</i>",
-          "paraphrase": "suspend <i>something</i>",
+          "keywords": "mothball (something)",
+          "paraphrase": "suspend (something)",
           "example": "It looks like we’re going to mothball this project.",
           "origin": "IRT the practice of storing clothes with mothballs to prevent damage from moths."
         },
@@ -4235,7 +4236,7 @@
         {
           "onHold": "**",
           "id": "61800",
-          "keywords": "nail <i>one’s</i> colors to the mast",
+          "keywords": "nail (one’s) colors to the mast",
           "paraphrase": "declare absolute determination not to yield",
           "example": "I’ve nailed my colors to the mast on this issue. I’m not giving an inch.",
           "origin": "IRT the historic practice in naval warfare of nailing the ship’s flag to the mask to show it will not be lowered in surrender."
@@ -4310,8 +4311,8 @@
         },
         {
           "id": "62900",
-          "keywords": "nip <i>something</i> in the bud",
-          "paraphrase": "halt <i>something</i> before it starts",
+          "keywords": "nip (something) in the bud",
+          "paraphrase": "halt (something) before it starts",
           "example": "We have to nip this idea in the bud or the kids will never give up on it."
         },
         {
@@ -4389,8 +4390,8 @@
         },
         {
           "id": "64100",
-          "keywords": "not <i>one’s</i> first rodeo",
-          "paraphrase": "not <i>one’s</i> first experience",
+          "keywords": "not (one’s) first rodeo",
+          "paraphrase": "not (one’s) first experience",
           "example": "This is not my first rodeo. You can skip teaching me the basics."
         },
         {
@@ -4420,7 +4421,7 @@
         },
         {
           "id": "64600",
-          "keywords": "nothing up <i>one’s</i> sleeve",
+          "keywords": "nothing up (one’s) sleeve",
           "paraphrase": "no hidden resources",
           "example": "I’ve got nothing up my sleeve. What you see here is all I’ve got to work with. ",
           "origin": "IRT the possibility of cheating at cards by hiding cards up one’s sleeve."
@@ -4491,7 +4492,7 @@
           "paraphrase": "not responsible",
           "example": "You’re off the hook this time. Everyone gets a second chance.",
           "origin": "Probably IRT fishing, where from the fish's point of view being on the hook is unfortunate.",
-          "references": [ { "id": "68800", "text": "on the hook" }, { "id": "54500", "text": "let <i>one</i> off the hook" } ]
+          "references": [ { "id": "68800", "text": "on the hook" }, { "id": "54500", "text": "let (one) off the hook" } ]
         },
         {
           "id": "65600",
@@ -4558,25 +4559,25 @@
         },
         {
           "id": "66500",
-          "keywords": "on <i>one’s</i> (or its) last legs",
-          "paraphrase": "end of <i>one’s</i> (or its) useful life",
+          "keywords": "on (one’s) (or its) last legs",
+          "paraphrase": "end of (one’s) (or its) useful life",
           "example": "This old bike is on its last legs. I can no longer find parts to repair it."
         },
         {
           "id": "66600",
-          "keywords": "on <i>one’s</i> high horse",
+          "keywords": "on (one’s) high horse",
           "paraphrase": "behaving self-righteously",
           "example": "Andy feels very offended and is really on her high horse."
         },
         {
           "id": "66700",
-          "keywords": "on <i>one’s</i> radar",
-          "paraphrase": "within <i>one’s</i> awareness",
+          "keywords": "on (one’s) radar",
+          "paraphrase": "within (one’s) awareness",
           "example": "They took me completely by surprise. That possibility wasn’t even on my radar."
         },
         {
           "id": "66800",
-          "keywords": "on <i>one’s</i> toes",
+          "keywords": "on (one’s) toes",
           "paraphrase": "alert",
           "example": "We need to be on our toes and attentive today. These folks always have a hidden agenda.",
           "origin": "Possibly IRT ballet, where dancers are often on tiptoe, or sports, where it is usually advantageous to be on one’s toes as opposed to flatfooted."
@@ -4705,7 +4706,7 @@
           "keywords": "on the hook",
           "paraphrase": "responsible",
           "example": "I paid for dinner last week. I think you’re on the hook this time.",
-          "references": [ { "id": "65500", "text": "off the hook" }, { "id": "54500", "text": "let <i>one</i> off the hook" } ]
+          "references": [ { "id": "65500", "text": "off the hook" }, { "id": "54500", "text": "let (one) off the hook" } ]
         },
         {
           "onHold": "**",
@@ -4933,7 +4934,7 @@
         {
           "onHold": "**",
           "id": "72100",
-          "keywords": "past its (or <i>one’s</i>) sell by date",
+          "keywords": "past its (or (one’s)) sell by date",
           "paraphrase": "past its useful life",
           "example": "He’s past his sell-by date but he just refuses to retire.",
           "origin": "IRT to the practice of stamping a date on a food product to indicate the end of its useful life."
@@ -5042,14 +5043,14 @@
         },
         {
           "id": "73600",
-          "keywords": "play <i>one’s</i> cards close to <i>one’s</i> chest (or vest)",
+          "keywords": "play (one’s) cards close to (one’s) chest (or vest)",
           "paraphrase": "proceed secretively ",
           "example": "I don’t know what Andy’s term paper is about. He’s playing his cards close to his chest.",
           "origin": "IRT card games where one hold’s one cards close to prevent one’s opponents from seeing your hand."
         },
         {
           "id": "73700",
-          "keywords": "play <i>one’s</i> cards right",
+          "keywords": "play (one’s) cards right",
           "paraphrase": "act strategically",
           "example": "If you play your cards right, the professor will sometimes give you an extension on your assignment.",
           "origin": "Obviously IRT playing well in a card game."
@@ -5172,7 +5173,7 @@
         {
           "id": "75400",
           "keywords": "pony up",
-          "paraphrase": "pay <i>one’s</i> share",
+          "paraphrase": "pay (one’s) share",
           "example": "We agreed to share the bill, so now it’s time to pony up."
         },
         {
@@ -5264,7 +5265,7 @@
         },
         {
           "id": "76700",
-          "keywords": "pull <i>one’s</i> punches",
+          "keywords": "pull (one’s) punches",
           "paraphrase": "use less than full force",
           "example": "Andy knows she’s already won the debate, so she’s starting to pull her punches a bit.",
           "origin": "IRT boxing, where a boxer may ease up on their opponent once victory is certain."
@@ -5299,15 +5300,15 @@
         },
         {
           "id": "77200",
-          "keywords": "pulling <i>one’s</i> leg",
-          "paraphrase": "teasing <i>one</i>",
+          "keywords": "pulling (one’s) leg",
+          "paraphrase": "teasing (one)",
           "example": "Of course that’s not true. I was just pulling your leg.",
           "origin": "Possibly IRT the supposed historical practice of tripping someone before robbing them or possibly the historical practice of pulling on the legs of someone being hanged to speed their death. [two origina]"
         },
         {
           "id": "77300",
-          "keywords": "punch above <i>one’s</i> weight",
-          "paraphrase": "perform above <i>one’s</i> perceived abilities",
+          "keywords": "punch above (one’s) weight",
+          "paraphrase": "perform above (one’s) perceived abilities",
           "example": "They’re a team from a small school, but they always seem to punch above their weight.",
           "origin": "IRT boxing, where an individual may be stronger than expected for their weight class."
         },
@@ -5327,50 +5328,50 @@
         },
         {
           "id": "77600",
-          "keywords": "put (or hang) out <i>one’s</i> shingle",
-          "paraphrase": "start a (or <i>one’s</i>) business",
+          "keywords": "put (or hang) out (one’s) shingle",
+          "paraphrase": "start a (or (one’s)) business",
           "example": "Andy couldn’t find a job, so he’s putting out his shingle.",
           "comment": "Usually implies a professional such as lawyer or architect opening an office.",
           "origin": "IRT the historical practice of identifying one’s business using a shingle as a sign."
         },
         {
           "id": "77700",
-          "keywords": "put <i>one’s</i> foot down",
-          "paraphrase": "strongly exert <i>one’s</i> authority",
+          "keywords": "put (one’s) foot down",
+          "paraphrase": "strongly exert (one’s) authority",
           "example": "The coach is putting his foot down. He’s tired of the team’s lackadaisical attitude."
         },
         {
           "id": "77800",
-          "keywords": "put <i>one’s</i> foot in <i>one’s own</i> mouth",
+          "keywords": "put (one’s) foot in (one’s own) mouth",
           "paraphrase": "speak inappropriately",
           "example": "I put my foot in my mouth this time. I let it slip about the surprise party.",
           "origin": "Possibly IRT the phrase foot-in-mouth being a play on the hoof-and-mouth disease that afflicts cattle."
         },
         {
           "id": "77900",
-          "keywords": "put <i>one</i> out to pasture",
-          "paraphrase": "force <i>one</i> to retire",
+          "keywords": "put (one) out to pasture",
+          "paraphrase": "force (one) to retire",
           "example": "The department wants to put him out to pasture, but he’s very resistant.",
           "origin": "IRT the practice in horse racing of retiring a racehorse after its racing career to become a stud or broodmare."
         },
         {
           "id": "78000",
-          "keywords": "put <i>one</i> through their paces",
-          "paraphrase": "have <i>one</i> show their competence",
+          "keywords": "put (one) through their paces",
+          "paraphrase": "have (one) show their competence",
           "example": "You had better be prepared for your interview. She will put you through your paces.",
           "origin": "dressage?"
         },
         {
           "id": "78100",
-          "keywords": "put <i>something</i> in mothballs",
-          "paraphrase": "suspend <i>something</i>",
+          "keywords": "put (something) in mothballs",
+          "paraphrase": "suspend (something)",
           "example": "It looks like we’re putting this project in mothballs.",
           "origin": "IRT the practice of storing clothes with mothballs to prevent damage from moths."
         },
         {
           "id": "78200",
-          "keywords": "put <i>something</i> on ice",
-          "paraphrase": "finish <i>something</i> up",
+          "keywords": "put (something) on ice",
+          "paraphrase": "finish (something) up",
           "example": "They’ve put their science project on ice. They’re done and satisfied with it."
         },
         {
@@ -5419,8 +5420,8 @@
         },
         {
           "id": "78900",
-          "keywords": "put the screws to <i>one</i>",
-          "paraphrase": "put intense pressure on <i>one</i>",
+          "keywords": "put the screws to (one)",
+          "paraphrase": "put intense pressure on (one)",
           "example": "If the screening committee thinks you’re not completely honest with them, they will really put the screws to you.",
           "origin": "IRT the medieval use of screws to torture individuals by exerting immense pressure on their toes or fingers."
         },
@@ -5462,13 +5463,13 @@
         },
         {
           "id": "79400",
-          "keywords": "rain on <i>one’s</i> parade",
-          "paraphrase": "spoil <i>one</i>’s fun",
+          "keywords": "rain on (one’s) parade",
+          "paraphrase": "spoil (one)’s fun",
           "example": "I hate to rain on your parade, but we still don’t know who won the election."
         },
         {
           "id": "79500",
-          "keywords": "raise (or up) <i>one’s</i> game",
+          "keywords": "raise (or up) (one’s) game",
           "paraphrase": "operate at a higher level",
           "example": "Andy needs to raise her game if she wants to succeed in law school. "
         },
@@ -5500,8 +5501,8 @@
         },
         {
           "id": "80000",
-          "keywords": "rake <i>one</i> over the coals",
-          "paraphrase": "subject <i>one</i> to severe criticism",
+          "keywords": "rake (one) over the coals",
+          "paraphrase": "subject (one) to severe criticism",
           "example": "Andy made a serious miscalculation and his manager is raking him over the coals."
         },
         {
@@ -5526,15 +5527,15 @@
         },
         {
           "id": "80400",
-          "keywords": "rattle <i>one’s</i> cage",
-          "paraphrase": "provoke <i>one</i>",
+          "keywords": "rattle (one’s) cage",
+          "paraphrase": "provoke (one)",
           "example": "You’re certainly feisty this morning. Who rattled your cage?",
           "comment": "Usually used humorously."
         },
         {
           "id": "80500",
-          "keywords": "read <i>one</i> the riot act",
-          "paraphrase": "forcefully declare the rules to <i>one</i>",
+          "keywords": "read (one) the riot act",
+          "paraphrase": "forcefully declare the rules to (one)",
           "example": "Andy really hadn’t done anything wrong, but the supervisor read her the riot act anyway.",
           "origin": "IRT the Riot Act in historic Great Britain, which authorized local officials to declare an assembly of people illegal after first reading them the Act."
         },
@@ -5661,8 +5662,8 @@
         },
         {
           "id": "82300",
-          "keywords": "right up <i>one’s</i> alley",
-          "paraphrase": "in <i>one’s</i> area of expertise",
+          "keywords": "right up (one’s) alley",
+          "paraphrase": "in (one’s) area of expertise",
           "example": "I’ll take this on. This kind of challenge is right up my alley."
         },
         {
@@ -5685,8 +5686,8 @@
         },
         {
           "id": "82700",
-          "keywords": "rob <i>one</i> blind",
-          "paraphrase": "steal from <i>one</i> unmercilessly",
+          "keywords": "rob (one) blind",
+          "paraphrase": "steal from (one) unmercilessly",
           "example": "Without consumer protections, large corporations would just rob us blind.",
           "origin": "Possibly IRT the act of stealing from a blind beggar’s cup of donated money."
         },
@@ -5774,8 +5775,8 @@
         },
         {
           "id": "84000",
-          "keywords": "ruffle <i>one’s</i> feathers",
-          "paraphrase": "upset <i>one</i>",
+          "keywords": "ruffle (one’s) feathers",
+          "paraphrase": "upset (one)",
           "example": "I gather that she ruffled your feathers a bit with that comment."
         },
         {
@@ -5807,14 +5808,14 @@
         },
         {
           "id": "84500",
-          "keywords": "run <i>something</i> to ground",
-          "paraphrase": "figure <i>something</i> out",
+          "keywords": "run (something) to ground",
+          "paraphrase": "figure (something) out",
           "example": "We’ve been looking at the data all week and I think we’ve finally run the anomaly to ground.",
           "origin": "IRT the practice in hunting of chasing prey until it tires and finds a place to hide."
         },
         {
           "id": "84600",
-          "keywords": "run <i>something</i> up the flagpole",
+          "keywords": "run (something) up the flagpole",
           "paraphrase": "tentatively suggest something",
           "example": "I think it’s a good idea, but let’s run it up the flagpole and see what the others say."
         },
@@ -5841,7 +5842,7 @@
         {
           "id": "85000",
           "keywords": "run out of steam",
-          "paraphrase": "exhaust <i>one’s</i> energy",
+          "paraphrase": "exhaust (one’s) energy",
           "example": "I’ve been working on this all day and I’m running out of steam."
         },
         {
@@ -5986,8 +5987,8 @@
         },
         {
           "id": "87100",
-          "keywords": "sell <i>one</i> short",
-          "paraphrase": "underestimate <i>one</i>",
+          "keywords": "sell (one) short",
+          "paraphrase": "underestimate (one)",
           "example": "You are always selling yourself short. You’re better at this than you think.",
           "origin": "stock market?"
         },
@@ -5998,18 +5999,18 @@
         },
         {
           "id": "87300",
-          "keywords": "set the bar (too) high",
+          "keywords": "set the bar high",
           "paraphrase": "establish a demanding standard",
           "example": "Andy set the bar too high this time. None of his students passed the quiz.",
-          "references": [ { "id": "44300", "text": "a high bar" }, { "id": "57300", "text": "a low bar" }, { "id": "87400", "text": "set the bar (too) low" } ],
+          "references": [ { "id": "44300", "text": "a high bar" }, { "id": "57300", "text": "a low bar" }, { "id": "87400", "text": "set the bar low" } ],
           "origin": "IRT to high-jumping in track and field, where a higher bar makes the jump harder."
         },
         {
           "id": "87400",
-          "keywords": "set the bar (too) low",
+          "keywords": "set the bar low",
           "paraphrase": "establish an undemanding standard",
           "example": "Andy set the bar too low this time. Every one of his students aced the quiz.",
-          "references": [ { "id": "44300", "text": "a high bar" }, { "id": "57300", "text": "a low bar" }, { "id": "87300", "text": "set the bar (too) high" } ],
+          "references": [ { "id": "44300", "text": "a high bar" }, { "id": "57300", "text": "a low bar" }, { "id": "87300", "text": "set the bar high" } ],
           "origin": "IRT to high-jumping in track and field, where a lower bar makes the jump easier."
         },
         {
@@ -6053,15 +6054,15 @@
         },
         {
           "id": "88100",
-          "keywords": "shoot <i>one’s</i> wad",
-          "paraphrase": "exhaust <i>one</i>’s resources",
+          "keywords": "shoot (one’s) wad",
+          "paraphrase": "exhaust (one)’s resources",
           "example": "I shot my wad on those first few hills. I have no energy left for any more.",
           "origin": "IRT forgetting in the heat of battle to insert a bullet into a muzzle-loading rifle and so shooting only the wad that goes in before the bullet."
         },
         {
           "id": "88200",
-          "keywords": "shoot <i>oneself</i> in the foot",
-          "paraphrase": "mistakenly damage <i>oneself</i>",
+          "keywords": "shoot (oneself) in the foot",
+          "paraphrase": "mistakenly damage (oneself)",
           "example": "Andy shot herself in the foot with her last argument.",
           "origin": "IRT the practice of avoiding military service by \"accidentally\" injuring oneself, commonly by shooting oneself in the foot; or possibly IRT a cowboy in the old west accidentally shooting himself in the foot by drawing his pistol too quickly from his holster."
         },
@@ -6131,7 +6132,7 @@
           "keywords": "silver bullet",
           "paraphrase": "quick and easy solution",
           "example": "There’s no silver bullet. We just need to investigate all the options.",
-          "references": [ { "id": "54100", "text": "left <i>one’s</i> calling card" } ],
+          "references": [ { "id": "54100", "text": "left (one’s) calling card" } ],
           "origin": "IRT the 1950s TV show <b><i>The Lone Ranger</i></b> where the hero always left a silver bullet behind after his exploits as his <i>calling card</i>."
         },
         {
@@ -6149,7 +6150,7 @@
         },
         {
           "id": "89500",
-          "keywords": "sit <i>something</i> out",
+          "keywords": "sit (something) out",
           "paraphrase": "not participate",
           "example": "You two go ahead to the opening. I’m going to sit this one out.",
           "origin": "IRT dancing, where the phrase refers to a person not participating. "
@@ -6328,7 +6329,7 @@
         },
         {
           "id": "92100",
-          "keywords": "something up <i>one’s</i> sleeve",
+          "keywords": "something up (one’s) sleeve",
           "paraphrase": "a secret plan",
           "example": "Andy has something up her sleeve. She’s being very coy about her plans.",
           "origin": "IRT the possibility of cheating at cards by hiding cards up one’s sleeve."
@@ -6355,7 +6356,7 @@
         {
           "id": "92500",
           "keywords": "speak (or speaking) of the devil",
-          "paraphrase": "speak of <i>someone</i>",
+          "paraphrase": "speak of (someone)",
           "example": "Speak of the devil, Andy just arrived.",
           "comment": "Only used when having just mentioned the person in question."
         },
@@ -6375,7 +6376,7 @@
         },
         {
           "id": "92800",
-          "keywords": "spin <i>one’s</i> wheels",
+          "keywords": "spin (one’s) wheels",
           "paraphrase": "act futilely",
           "example": "I think we’re just spinning our wheels here. We need a new approach.",
           "origin": "Obviously IRT the tendency of wheels to spin when a vehicle is trying to gain traction in snow or mud."
@@ -6427,8 +6428,8 @@
         },
         {
           "id": "93500",
-          "keywords": "stand <i>one’s</i> ground",
-          "paraphrase": "hold <i>one’s</i> position",
+          "keywords": "stand (one’s) ground",
+          "paraphrase": "hold (one’s) position",
           "example": "I’ve compromised enough in this negotiation. I’m ready to stand my ground.",
           "origin": "IRT one side in an armed conflict refusing to yield a position."
         },
@@ -6462,8 +6463,8 @@
         },
         {
           "id": "94000",
-          "keywords": "steal <i>one’s</i> thunder",
-          "paraphrase": "eclipse <i>one’s</i> idea",
+          "keywords": "steal (one’s) thunder",
+          "paraphrase": "eclipse (one’s) idea",
           "example": "Andy has been developing his patent application for months, but another company stole his thunder.",
           "comment": "Can imply that the idea is stolen.",
           "origin": "IRT the eighteenth-century invention of a mechanism for making the sound of thunder in a play, which the inventor claimed was stolen for use in another play."
@@ -6489,7 +6490,7 @@
         },
         {
           "id": "94400",
-          "keywords": "step up <i>one’s</i> game",
+          "keywords": "step up (one’s) game",
           "paraphrase": "operate at a higher level",
           "example": "Andy needs to step up her game if she wants that promotion."
         },
@@ -6503,7 +6504,7 @@
         {
           "onHold": "**",
           "id": "94600",
-          "keywords": "stick in <i>one’s</i> craw",
+          "keywords": "stick in (one’s) craw",
           "paraphrase": "irritate exceedingly"
         },
         {
@@ -6522,8 +6523,8 @@
         },
         {
           "id": "94900",
-          "keywords": "stick to <i>one’s</i> guns",
-          "paraphrase": "maintain <i>one’s</i> stance",
+          "keywords": "stick to (one’s) guns",
+          "paraphrase": "maintain (one’s) stance",
           "example": "They’ve tried hard to change his mind, but he’s sticking to his guns.",
           "origin": "IRT on a soldier remaining in place to fire a gun even when all appears to be lost."
         },
@@ -6638,8 +6639,8 @@
         },
         {
           "id": "96500",
-          "keywords": "suit <i>one</i> to a T",
-          "paraphrase": "be completely satisfactory to <i>one</i>",
+          "keywords": "suit (one) to a T",
+          "paraphrase": "be completely satisfactory to (one)",
           "example": "I think this office will suit me to a T."
         },
         {
@@ -6649,7 +6650,7 @@
           "paraphrase": "very precise intervention"
         },
         {
-          "prewords": "<i>one’s</i>",
+          "prewords": "(one’s)",
           "id": "96700",
           "keywords": "swan song",
           "paraphrase": "final performance",
@@ -6672,8 +6673,8 @@
         },
         {
           "id": "97000",
-          "keywords": "sweep <i>something</i> under the rug",
-          "paraphrase": "ignore <i>something</i>",
+          "keywords": "sweep (something) under the rug",
+          "paraphrase": "ignore (something)",
           "example": "They’ve been sweeping their problems under the rug for months, but the issues are getting too serious to hide any longer."
         },
         {
@@ -6728,43 +6729,43 @@
         },
         {
           "id": "97700",
-          "keywords": "take <i>one’s</i> eye off the ball",
+          "keywords": "take (one’s) eye off the ball",
           "paraphrase": "lose focus",
           "example": "Andy took her eye off the ball, so she didn’t do well on her exam.",
           "origin": "IRT baseball, tennis, or other sports where a player must hit a ball in motion."
         },
         {
           "id": "97800",
-          "keywords": "take <i>one</i> (or <i>something</i>) with a grain of salt",
-          "paraphrase": "discount <i>one’s</i> (or <i>something’s</i>) significance",
+          "keywords": "take (one) (or (something)) with a grain of salt",
+          "paraphrase": "discount (one’s) (or (something’s)) significance",
           "example": "Andy can be rather melodramatic. I always take his dramatics with a grain of salt.",
           "origin": "Possibly IRT the ancient discovery of an antidote for a poison where one of the antidote’s ingredients was a bit of salt."
         },
         {
           "id": "97900",
-          "keywords": "take <i>one</i> down a peg (or notch)",
-          "paraphrase": "humble <i>one</i>",
+          "keywords": "take (one) down a peg (or notch)",
+          "paraphrase": "humble (one)",
           "example": "Andy is way too cocky. Someone should take him down a peg.",
           "origin": "IRT the historical practice of raising and lowering a ship’s colors through the use of pegs, where lower colors signified less honor."
         },
         {
           "id": "98000",
-          "keywords": "take <i>one</i> for a ride",
-          "paraphrase": "fool <i>one</i>",
+          "keywords": "take (one) for a ride",
+          "paraphrase": "fool (one)",
           "example": "He thinks Andy really cares for him, but she’s taking him for a ride."
         },
         {
           "id": "98100",
-          "keywords": "take <i>one</i> to the woodshed",
-          "paraphrase": "punish <i>one</i>",
+          "keywords": "take (one) to the woodshed",
+          "paraphrase": "punish (one)",
           "example": "The coach is unhappy with Andy’s attitude, so she’s taking him to the woodshed.",
           "origin": "IRT the perhaps exaggerated story that children used to be taken to the woodshed for spanking or other corporal punishment."
         },
         {
           "onHold": "**",
           "id": "98200",
-          "keywords": "take <i>someone</i> by storm",
-          "paraphrase": "overwhelm <i>someone</i>",
+          "keywords": "take (someone) by storm",
+          "paraphrase": "overwhelm (someone)",
           "example": "She didn’t want to go to the movies, but her children took her by storm.",
           "origin": "IRT the historical military practice of sending a large formation of soldiers directly against a strong position. "
         },
@@ -6820,7 +6821,7 @@
         },
         {
           "id": "99000",
-          "keywords": "take the bit in <i>one’s</i> teeth",
+          "keywords": "take the bit in (one’s) teeth",
           "paraphrase": "assume control",
           "example": "Andy could see that the group wasn’t making any progress, so she took the bit in her teeth and got everyone back on track.",
           "origin": "IRT horseback riding, where a horse that gets the bit in its teeth, as opposed to behind them, no longer responds to commands through the reins."
@@ -6844,13 +6845,13 @@
           "keywords": "take the heat",
           "paraphrase": "accept the blame",
           "example": "Andy isn’t really responsible for the problems, but she’s willing to take the heat for the whole group.",
-          "references": [ { "id": "45600", "text": "hold <i>one’s</i> feet to the fire" } ],
+          "references": [ { "id": "45600", "text": "hold (one’s) feet to the fire" } ],
           "origin": "Possibly IRT the use of fire as torture in Medieval Europe."
         },
         {
           "id": "99400",
-          "keywords": "take the wind out of <i>one’s</i> sails",
-          "paraphrase": "deflate <i>one’s</i> enthusiasm",
+          "keywords": "take the wind out of (one’s) sails",
+          "paraphrase": "deflate (one’s) enthusiasm",
           "example": "I hate to take the wind out of your sails, but there are no tickets left for the concert.",
           "origin": "IRT the technique in racing or naval warfare of positioning one sailing vessel to the windward of another so as to reduce the wind available to the leeward vessel for speed or maneuvering."
         },
@@ -6882,8 +6883,8 @@
         },
         {
           "id": "99900",
-          "keywords": "telegraph <i>one’s</i> punches",
-          "paraphrase": "reveal <i>one’s</i> intentions",
+          "keywords": "telegraph (one’s) punches",
+          "paraphrase": "reveal (one’s) intentions",
           "example": "You’re telegraphing your punches. They can always tell what you’re going to try next.",
           "origin": "IRT boxing, where the phrase indicates that a boxer is inadvertently revealing the direction that his or her punches are coming from."
         },
@@ -6959,7 +6960,7 @@
         {
           "id": "101000",
           "keywords": "three strikes",
-          "paraphrase": "all <i>one’s</i> chances",
+          "paraphrase": "all (one’s) chances",
           "example": "You’ve had your three strikes with her, pal. I don’t think she wants to go out with you.",
           "origin": "IRT baseball, where a batter who gets three strikes is out."
         },
@@ -6986,40 +6987,40 @@
         },
         {
           "id": "101400",
-          "keywords": "throw <i>one’s</i> hat in (or into) the ring",
-          "paraphrase": "declare <i>one’s</i> candidacy",
+          "keywords": "throw (one’s) hat in (or into) the ring",
+          "paraphrase": "declare (one’s) candidacy",
           "example": "Andy doesn’t really want to be president, but we convinced him to throw his hat in the ring.",
           "origin": "IRT boxing, where historically one issued a challenge by throwing a hat into the ring."
         },
         {
           "id": "101500",
-          "keywords": "throw <i>one</i> a curve ball (or change-up)",
-          "paraphrase": "surprise <i>one</i>",
+          "keywords": "throw (one) a curve ball (or change-up)",
+          "paraphrase": "surprise (one)",
           "example": "The teacher sure threw us a curve ball today. I thought this was supposed to be an easy test.",
           "origin": "IRT baseball, where a curve ball is one of the trickier pitches to hit."
         },
         {
           "id": "101600",
-          "keywords": "throw <i>one</i> a softball",
-          "paraphrase": "ask <i>one</i> an easy question",
+          "keywords": "throw (one) a softball",
+          "paraphrase": "ask (one) an easy question",
           "example": "These reporters are supposed to be tough, but they’re just throwing the mayor softballs.",
           "origin": "IRT slow-pitch softball, where a pitched ball is relatively easy to hit."
         },
         {
           "id": "101700",
-          "keywords": "throw <i>one</i> under the bus",
-          "paraphrase": "designate <i>one</i> for blame",
+          "keywords": "throw (one) under the bus",
+          "paraphrase": "designate (one) for blame",
           "example": "The senator would not take responsibility for the smear campaign, so he threw his most junior aide under the bus instead."
         },
         {
           "id": "101800",
-          "keywords": "throw <i>oneself</i> on the mercy of the court",
+          "keywords": "throw (oneself) on the mercy of the court",
           "paraphrase": "hope for clemency",
           "example": "Andy can’t deny his mistake, so all he can do is throw himself on the mercy of the court."
         },
         {
           "id": "101900",
-          "keywords": "throw in <i>one’s</i> hand",
+          "keywords": "throw in (one’s) hand",
           "paraphrase": "quit",
           "example": "I’ve tried and failed several times to get this project approved, so I’m throwing in my hand.",
           "origin": "IRT to poker, where the phrase refers to folding or resigning from the current hand."
@@ -7033,7 +7034,7 @@
         },
         {
           "id": "102100",
-          "keywords": "throw the book at <i>one</i>",
+          "keywords": "throw the book at (one)",
           "paraphrase": "apply maximum punishment",
           "example": "He’s had his chances to go straight but he’s always failed, and now the judge is throwing the book at him.",
           "origin": "IRT charging someone in court with every applicable legal offense and applying maximum punishment."
@@ -7053,8 +7054,8 @@
         {
           "onHold": "**",
           "id": "102400",
-          "keywords": "tide <i>one</i> over",
-          "paraphrase": "get <i>one</i> through the immediate difficulty",
+          "keywords": "tide (one) over",
+          "paraphrase": "get (one) through the immediate difficulty",
           "origin": "Probably IRT ships historically riding the tide when entering or leaving port."
         },
         {
@@ -7066,8 +7067,8 @@
         {
           "onHold": "**",
           "id": "102600",
-          "keywords": "tied to <i>one’s</i> mother’s apron strings",
-          "paraphrase": "overly dependent on <i>one’s</i> mother"
+          "keywords": "tied to (one’s) mother’s apron strings",
+          "paraphrase": "overly dependent on (one’s) mother"
         },
         {
           "id": "102700",
@@ -7092,8 +7093,8 @@
         },
         {
           "id": "103000",
-          "keywords": "tip <i>one’s</i> hand",
-          "paraphrase": "reveal <i>one’s</i> intentions",
+          "keywords": "tip (one’s) hand",
+          "paraphrase": "reveal (one’s) intentions",
           "example": "If you’re hoping to change her mind, be subtle about it. Don’t tip your hand right away.",
           "origin": "IRT card games, where it’s a disadvantage to allow one’s opponents to see one’s hand of cards. "
         },
@@ -7217,8 +7218,8 @@
         },
         {
           "id": "104800",
-          "keywords": "trim (or clip) <i>one’s</i> wings",
-          "paraphrase": "place limits on <i>one</i>",
+          "keywords": "trim (or clip) (one’s) wings",
+          "paraphrase": "place limits on (one)",
           "example": "Andy was getting too careless on his own. We had to clip his wings.",
           "origin": "IRT clipping a bird’s wings to prevent it from flying."
         },
@@ -7265,7 +7266,7 @@
           "origin": "IRT the corpse of a hanged person left dangling and twisting in the open air as a warning to others."
         },
         {
-          "prewords": "<i>one’s</i>",
+          "prewords": "(one’s)",
           "id": "105500",
           "keywords": "two cents worth",
           "paraphrase": "opinion",
@@ -7279,8 +7280,8 @@
       "idioms": [
         {
           "id": "105600",
-          "keywords": "under <i>one’s</i> wing",
-          "paraphrase": "under <i>one’s</i> mentoring",
+          "keywords": "under (one’s) wing",
+          "paraphrase": "under (one’s) mentoring",
           "example": "Andy likes to take new employees under her wing and help them get adjusted.",
           "origin": "IRT a chicken or other fowl keeping her chicks under her wing for protection."
         },
@@ -7456,8 +7457,8 @@
         },
         {
           "id": "108000",
-          "keywords": "want <i>one’s</i> head on a platter",
-          "paraphrase": "want <i>one</i> completely vanquished",
+          "keywords": "want (one’s) head on a platter",
+          "paraphrase": "want (one) completely vanquished",
           "example": "The board feels so betrayed that they want the director’s head on a platter.",
           "origin": "IRT the Biblical story (<b><i>Mark 6:21-28</i></b> and <b><i>Matthew 15:6-11</i></b>) in which Salome requests as a reward the head of John the Baptist on a platter."
         },
@@ -7471,7 +7472,7 @@
         },
         {
           "id": "108200",
-          "keywords": "wash <i>one’s</i> hands",
+          "keywords": "wash (one’s) hands",
           "paraphrase": "disclaim responsibility",
           "example": "I’ve washed my hands of that project. I want nothing more to do with it.",
           "origin": "IRT the Biblical account (<b><i>Matthew 27:24</i></b>) of Pontius Pilate absolving himself of responsibility for the crucifixion of Jesus by washing his hands. "
@@ -7516,7 +7517,7 @@
         {
           "onHold": "**",
           "id": "108800",
-          "keywords": "wet <i>one’s</i> whistle",
+          "keywords": "wet (one’s) whistle",
           "paraphrase": "have a drink"
         },
         {
@@ -7548,8 +7549,8 @@
         {
           "onHold": "**",
           "id": "109300",
-          "keywords": "when <i>one’s</i> ship comes in",
-          "paraphrase": "when <i>one</i> gets rich",
+          "keywords": "when (one’s) ship comes in",
+          "paraphrase": "when (one) gets rich",
           "comment": "Usually used facetiously."
         },
         {
@@ -7715,7 +7716,7 @@
         {
           "id": "111700",
           "keywords": "with guns blazing",
-          "paraphrase": "with all <i>one’s</i> force",
+          "paraphrase": "with all (one’s) force",
           "example": "Andy was really angry and he came at them with guns blazing.",
           "origin": "cowboys"
         },
@@ -7752,12 +7753,12 @@
         {
           "onHold": "**",
           "id": "112300",
-          "keywords": "world is <i>one’s</i> oyster",
-          "paraphrase": "<i>one</i> feels immensely successful and able to accomplish anything desired"
+          "keywords": "world is (one’s) oyster",
+          "paraphrase": "(one) feels immensely successful and able to accomplish anything desired"
         },
         {
           "id": "112400",
-          "keywords": "worth <i>one’s</i> salt",
+          "keywords": "worth (one’s) salt",
           "paraphrase": "competent and contributing",
           "example": "Andy has proved he’s worth his salt."
         },
