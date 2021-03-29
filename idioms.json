@@ -3619,6 +3619,7 @@
           "keywords": "lame duck",
           "paraphrase": "at the end of (one’s) tenure",
           "example": "They’ve already hired a new coach, so Andy’s a lame duck — no one will listen to her.",
+          "origin": "In the mid-eighteenth century in Britain, originally alluded to a stock broker who could not pay his debts and lost his position on the stock exchange. Only much later did the phrase tale on its present meaning.",
           "comment": "Occurs when someone has been supplanted but is still in position."
         },
         {
@@ -5409,7 +5410,7 @@
           "paraphrase": "reverse an irreversible action",
           "example": "Once the secret is out, there’s no way to put the genie back in the bottle.",
           "references": [ { "id": "55000", "text": "let the genie out of the bottle" } ],
-          "origin": "Alludes to the myth of Aladdin, which includes a magic lamp that when rubbed produces a genie of magical powers."
+          "origin": "Alludes to the folk tale of Aladdin, which includes a magic lamp that when rubbed produces a genie of magical powers."
         },
         {
           "id": "78800",
@@ -5589,7 +5590,7 @@
           "keywords": "red herring",
           "paraphrase": "false clue",
           "example": "The wobbly wheel was a red herring. The brakes were the real problem. ",
-          "origin": "Alludes to the practice of dragging a smoked herring across a trail to distract hunting dogs from the trail or of dragging a herring along a trail to train hunting dogs to follow the trail. "
+          "origin": "Alludes either to the practice of dragging a smoked herring along a trail to train hunting dogs to follow the trail or to the possibly related practice of dragging a smoked herring across a trail to distract dogs from the trail of a poacher."
         },
         {
           "id": "81300",
@@ -5619,7 +5620,7 @@
           "paraphrase": "a notable day",
           "example": "It’s a red-letter day! I finally got one of my articles published.",
           "comment": "Implies a day that marks a significant achievement.",
-          "origin": "Alludes to the historical use of red to indicate important days in the calendar, initially in the Roman Republic."
+          "origin": "Alludes to the historical use, initially in the Roman Republic, of red to indicate important days in the calendar."
         },
         {
           "id": "81700",
@@ -5709,14 +5710,14 @@
           "keywords": "rogues gallery",
           "paraphrase": "an infamous group",
           "example": "All the top competitors have signed up. This event has attracted quite a rogues gallery.",
-          "comment": "Often used facetiously.",
+          "comment": "Now often used facetiously rather than in reference to actual rogues.",
           "origin": "Alludes to the array of photos of wanted criminals sometimes posted in law enforcement offices, possibly first used by the Pinkerton Agency in the mid-1800s."
         },
         {
           "onHold": "**",
           "id": "83100",
           "keywords": "roll (or romp) in the hay",
-          "paraphrase": "act of intercourse",
+          "paraphrase": "act of sexual intercourse",
           "example": "They were hoping for a quick roll in the hay, but they couldn’t find any privacy.",
           "comment": "Used informally."
         },
@@ -5886,7 +5887,7 @@
           "prewords": "a",
           "id": "85600",
           "keywords": "sacred cow",
-          "paraphrase": "something revered",
+          "paraphrase": "revered",
           "example": "This tradition is a sacred cow around here. Criticize it at your own risk.",
           "comment": "Implies reverence for no currently discernible reason.",
           "origin": "Alludes to Hinduism, where cows are venerated, they cannot be harmed, and eating beef is prohibited"
@@ -7654,6 +7655,13 @@
           "paraphrase": "unpredictable factor",
           "example": "Andy’s the wild card here. No one knows what her capabilities are.",
           "origin": "poker"
+        },
+        {
+          "id": "110810",
+          "keywords": "wild goose chase",
+          "paraphrase": "pointless search",
+          "example": "Andy's off on some wild goose chase for just the right ingredient.",
+          "origin": "Alludes to an historical form of horse racing, where a group of riders had to follow a lead rider in a formation similar to that of flying geese."
         },
         {
           "prewords": "the",
