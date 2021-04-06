@@ -3055,11 +3055,13 @@
         },
         {
           "id": "45000",
-          "keywords": "hit paydirt",
-          "paraphrase": "locate a bonanza",
-          "example": "We’ve hit paydirt! We finally found a source for the parts we need.",
-          "origin": "Alludes to prospecting, where the phrase refers to ground rich in ore or gems."
+          "keywords": "hit (or strike) paydirt",
+          "paraphrase": "find something of great value",
+          "example": "There’s a tremendous amount of useful information here. I think we’ve struck pay dirt.",
+          "comment": "Can imply value that is not financial.",
+          "origin": "Alludes to mining, where the phrase refers to discovering valuable ore in a claim."
         },
+
         {
           "onHold": "**",
           "id": "45100",
@@ -6615,14 +6617,6 @@
           "paraphrase": "acquire something of great value",
           "example": "There’s a tremendous amount of useful information here. I think we’ve struck it rich.",
           "comment": "Can imply value that is not financial."
-        },
-        {
-          "id": "96200",
-          "keywords": "strike pay dirt",
-          "paraphrase": "acquire something of great value",
-          "example": "There’s a tremendous amount of useful information here. I think we’ve struck pay dirt.",
-          "comment": "Can imply value that is not financial.",
-          "origin": "Alludes to mining, where the phrase refers to discovering valuable ore in a claim."
         },
         {
           "id": "96300",
