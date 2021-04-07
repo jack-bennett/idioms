@@ -1,9 +1,9 @@
 OnHold	Id	Prewords	Keywords	Paraphrase	Example	Origin	References	Comment
-Group#
+			# Group
 	100		(something) 101	the basics of (something)	Your bike’s in bad shape. You’re ready for Bicycle Maintenance 101.	Alludes to the supposed practice of assigning 101 as the number of any introductory college class. 		
 	200	the	$64,000 (or sixty-four-thousand dollar) question	the critical question	Why is she here? That’s the $64,000 question, isn’t it?	Alludes to an American TV quiz show of the 1950s called <b><i>The $64,000 Question</i></b> in which a contestant could win $64,000 with the correct answer to the final, hardest question.	[ { "id": "59900", "text": "the million-dollar question" } ]	
 	300	the	30,000 (or thirty-thousand) foot view	the broad outline	I don’t have much time. Just give me the 30,000-foot view.			
-GroupA
+			A Group
 	400		A-1	excellent	That restaurant is A-1.	Possibly alludes to the risk-management firm Lloyd’s of London’s highest rating on hull and rigging, respectively, of merchant sailing ships.		
 	500		above (one’s) pay grade	above (one’s) authority	Making a decision regarding that much money is well above my pay grade.			
 	600	an	ace in the hole	a conclusive factor	His aptitude test is his ace in the hole. They can hardly deny him admission now.	Alludes to a form of poker in which the single face-down card is called the hole card.		
@@ -34,7 +34,7 @@ GroupA
 	3100		at the drop of a hat	without prodding	Andy is easily distracted. He’ll stop studying at the drop of a hat.			
 	3200		at the top of (one’s) game	operating at (one’s) best	Andy’s won his last several cases. He’s at the top of his game.			
 	3300	an	ax to grind	a contentious issue to discuss	Andy was really upset. She had an ax to grind and wouldn’t be pacified.			
-GroupB
+			B Group
 	3400		back and fill	retreat and rework	After Andy’s mistake was discovered, he had to back and fill on his project plan.	Alludes to the maneuver used on sailing ships of alternately backing and filling the sails to steer when the rudder isn’t effective.		
 	3500		back in the saddle	returned to full involvement	Now that she’s recovered from her injury, she’s back in the saddle running the squad.	Alludes to the notion that one should remount a horse after falling to regain confidence.		
 	3600		back the wrong horse	support the wrong person	Andy backed the wrong horse for CEO and now she’s been stripped of her responsibilities.	Alludes to gambling on horse racing.		
@@ -128,7 +128,7 @@ GroupB
 	12400		by dead reckoning	by informal calculation	We had no map or GPS. We got here by dead reckoning.			
 	12500		by hook or by crook	in any manner possible	We’ll get the project done by hook or by crook.			
 	12600		by the skin of (one’s) teeth	barely	We escaped the fire by the skin of our teeth.			
-GroupC
+			C Group
 	12700		call (one’s) bluff	oblige (one) to justify a claim	I don’t think Andy has the nerve to jump, so I’m calling his bluff.	Alludes to poker, where one player may believe another is bluffing and call for the hands to be shown.		
 	12800		call (one) on the carpet	summon (one) for rebuke	Andy’s been seriously neglecting his work recently, so his manager called him on the carpet.			
 	12900		call a spade a spade	be bluntly honest	We’re all avoiding the real issue here. Can we just call a spade a spade and get on with finding a solution?			
@@ -236,7 +236,7 @@ GroupC
 	23100		cut the mustard	do the job	Andy couldn’t cut the mustard, so she resigned.			
 	23200		cut to the chase	get to the point	Please, we’ve heard enough extraneous detail. Can we cut to the chase?			
 	23300		cuts no ice with	makes no impression on	Andy’s previous experience cuts no ice with the new coach. He needs to see him perform.			
-GroupD
+			D Group
 	23400	(one’s)	dance card is full	(one’s) schedule is full	My dance card is full this week. Can we meet next week instead?			
 	23500		dark horse	unexpected competitor	The Wildcats were definitely the dark horse of the tournament and they’ve surprised everyone.			
 **	23600		Davy Jones’ locker	the resting place of those who die at sea				
@@ -278,7 +278,7 @@ GroupD
 	27200	a	dry hole	a fruitless effort	That experiment was a dry hole. We got absolutely no useful results from it.	Alludes to drilling wells in search of oil or water, where a dry well is obviously a failure.		
 	27300	a	dry run	realistic practice	Andy wanted a dry run of her interview, so we grilled her with lots of hard questions.			
 	27400		dyed in the wool (or dyed-in-the-wool)	absolute	Andy grew up in Texas so she’s a dyed-in-the-wool Cowboys fan.	Alludes to dyeing wool, where dyeing the wool before spinning results in more lasting color.		
-GroupE
+			E Group
 	27500		earn (one’s) stripes	earn (one’s) credentials	Andy’s earned his stripes and is definitely ready for more responsibility.	Alludes to the military, where stripes are in some situations an indication of rank.		
 	27600		eat (one’s) lunch	completely defeat (one)	He thought he was good at poker, but Andy ate his lunch.			
 	27700		eat crow	admit (one’s) error	Andy had to eat crow after his solution proved unworkable.			Implies that one strongly advocated for the error.
@@ -293,7 +293,7 @@ GroupE
 	28600	the	end of (one’s) tether	the limit of (one’s) patience	Andy is at the end of her tether with all these niggling criticisms.			
 	28700	the	end of the line	the end of the process	We’ve worked together for a long time, Andy, but I think we’re at the end of the line.	Probably alludes to railroads, where a train’s final destination is the end of the line.		
 	28800		end on a high note	finish positively	We’ve had so many problems with the project, but I think we’re going to end on a high note.	Possibly alludes to the stereotypical opera performance, which ends on a forceful prolonged high note.		
-GroupF
+			F Group
 	28900	a	face plant (or face-plant)	a complete failure	Andy’s presentation was a real face plant.	Possibly alludes to a hard fall taken in skiing, skateboarding, or similar sports; or possibly alludes to falling as a facet of physical comedy.		
 	29000		face the music	accept (one’s) reprimands	I got caught, so it looks like I have to go face the music.			
 	29100		fair and square	completely fairly	We need to do this fair and square so no one feels shortchanged.			
@@ -348,7 +348,7 @@ GroupF
 	34000		frosting on the cake	an unexpected extra benefit	We so enjoyed the work that the award was just frosting on the cake.			
 	34100		full steam ahead	maximum effort	We’ve got the resources we need. Now it’s full steam ahead on our project.			
 	34200		full tilt	fast and forcefully	They were anxious to get done, so they went at it full tilt.	Probably alludes to the medieval sport of jousting, or tilting, in which two knights rode at each other at full speed in an attempt to unhorse each other with lances.		
-GroupG
+			G Group
 	34300		game plan	plan	We need to get started with this effort. So what’s our game plan?	Alludes to sports, where a well-prepared team enters a game with a plan to counter the opponent’s strengths and take advantage of its weaknesses.		
 	34400		get (or have) (one’s) ducks in a row	get everything ready for action	She’s got her ducks in a row and feels completely ready for the meeting.			
 	34500		get (or leave) egg on (one’s) face	embarrass (one)	That gaff at dinner certainly left egg on Andy’s face.			
@@ -412,7 +412,7 @@ GroupG
 **	40300		grist for the mill					
 	40400		ground zero	the focal point of action	The central square is ground zero for the protest, so the police are hanging out there.	Probably alludes to testing of bombs, where the phrase refers to the point of impact and explosion.		
 	40500		guinea pig	subject of an experiment	She’s trying a new teaching approach this term, so we get to be her guinea pigs.	Alludes to the perhaps apocryphal notion that scientific experiments are often performed on guinea pigs.		
-GroupH
+			H Group
 **	40600	a	Hail Mary	a desperate attempt				
 **	40700		hair of the dog					
 	40800	a	hall pass	permission	Andy got a hall pass from his wife, so he’s going with us this weekend.			
@@ -476,7 +476,7 @@ GroupH
 	46600	a	horse of a different color	a different situation	I’m happy to help, but if you’re asking me to work over the weekend that’s a horse of a different color.			
 	46700		horse sense	common sense	This problem required nothing more than good old horse sense.			
 	46800	a	hue and cry	a commotion	There was a big hue and cry after the news broke, but it died out soon enough.	Alludes to the historical obligation to raise an outcry in pursuit of a criminal.		Derived from the historical French phrase \
-GroupI
+			I Group
 	46900		I have a bridge to sell you	you’ll believe anything	If you think that big corporations have your best interest in mind, I have a bridge to sell you.			
 **	47000		in (one’s) wheelhouse	in (one’s) area of expertise				
 	47100		in (one’s) ivory tower	in (one’s) imaginary, impractical world	Andy’s off in his ivory tower, dreaming of a post-capitalism world.	Possibly alludes to a graduate research institution at Princeton that was partially sponsored by the founder of the company that manufactured Ivory Soap. However, there are earlier uses of the phrase in the Bible (<b><i>Solomon 7:4</i></b>) and in the French poem of 1837 <b><i>Pensées d’Août</i></b>, à M. Villemain.		Often used pejoratively.
@@ -509,7 +509,7 @@ GroupI
 	49800		it ain’t (or isn’t) over ’til the fat lady sings	the event isn’t over until the official end	This game looks lost, but you know it ain’t over ’til the fat lady sings.	Probably alludes to the stereotypical belief that every opera ends with the diva, stereotypically a substantial woman, singing an aria.		
 	49900		it’s a jungle out there	it’s a dangerous and unforgiving world	It’s a jungle out there and you’ve got to take care of yourself.			
 	50000		it’s greek to me	I don’t understand it at all	This report is greek to me. It’s way too technical.			
-GroupJ
+			J Group
 	50100		jerking (one’s) chain	teasing (one)	You can ignore Andy. He just likes to jerk people’s chains.	Possibly alludes to the once common practice of bear-baiting, where a bear chained to a post was set upon by dogs.		Can imply intentionally annoying teasing.
 **	50200		johnny on the spot	ready with what is needed				
 	50300		jump on the bandwagon	join the enthusiasts	So many people are raving about this diet, Andy decided to jump on the bandwagon.			
@@ -519,7 +519,7 @@ GroupJ
 	50700		jump through hoops	perform useless tasks	They’re making Andy jump through all kinds of hoops before they’ll allow him to graduate.			Often implies tasks that are bureaucratic in nature.
 	50800	the	jury is still out	the issue remains undecided	The jury’s still out on whether Andy is up to the challenge.	Alludes to the legal practice of jury trials, where the jury retires from the courtroom to decide the outcome of a trial.		
 **	50900		jury rig	contrive a makeshift solution		nautical		
-GroupK
+			K Group
 **	51000		Kabuki theater (or dance)	showy but hollow performance	The investigation was just a bit of Kabuki theater, too cursory to uncover any significant details.	Alludes to the extravagantly stylized form of theater historically popular in Japanese culture.		
 	51100	a	kangaroo court	a pretense of a fair hearing	It was a kangaroo court and Andy never had a chance to defend himself.			
 **	51200		Katy, bar the door	trouble’s on the way				
@@ -540,7 +540,7 @@ GroupK
 	52700		know the drill	understand the situation	You know the drill when Andy’s upset, right? We all have to respond like this is a real crisis.			
 	52800		know the ropes	have the experience	I know you know the ropes here. I don’t have to explain how we do things.	Alludes to having to learn the uses of the many ropes on a sailing vessel.		
 	52900		know where the bodies are buried	know the embarrassing secrets	Andy’s been in the club for years and she knows where the bodies are buried.			
-GroupL
+			L Group
 	53000	a	lame duck	at the end of (one’s) tenure	They’ve already hired a new coach, so Andy’s a lame duck — no one will listen to her.	In the mid-eighteenth century in Britain, originally alluded to a stock broker who could not pay his debts and lost his position on the stock exchange. Only much later did the phrase tale on its present meaning.		Occurs when someone has been supplanted but is still in position.
 	53100		last ditch	final and desperate	Andy made a last ditch effort to save her position here, but she’s made too many mistakes.	Possibly alludes to the military practice of digging successive trenches to protect infantry, where the rearmost trench or ditch is the final defense.		
 	53200		last hurrah	final performance	This game is Andy’s last hurrah. She graduates this year.			
@@ -591,7 +591,7 @@ GroupL
 	57700		low-hanging fruit	easiest tasks	Let’s identify the low-hanging fruit and get those jobs out of the way first.			
 	57800		lower the bar	ease the requirement	The last test was way too challenging. I think we need to lower the bar.	Alludes to to high-jumping in track and field, where a low bar makes the jump easier.		
 	57900		lower the boom	administer the consequences	Andy’s been playing instead of studying, and her Mom is getting set to lower the boom.	Probably alludes to sailing vessels, where the boom is a large spar which can sometimes swing out of control and thereby cause injury to the unaware.		
-GroupM
+			M Group
 	58000		maiden voyage	first real experience	My new bike is all set up and ready for its maiden voyage.	Alludes to sailing vessels, where the phrase refers to the first voyage of a ship.		
 	58100		mail it in	do a perfunctory job	The morale is so low here that these folks are just mailing it in. 		[ { "id": "72800", "text": "phone it in" } ]	
 	58200	the	major leagues	the top professional levels	You’re in the major leagues now. You have to do your best at all times.	Alludes to sports at the highest professional level (e.g. Major League Baseball, Major League Soccer).		
@@ -630,7 +630,7 @@ GroupM
 	61500		move the needle	have an effect	They put in tremendous effort on the research yesterday, but I don’t think they moved the needle much.	Alludes to any analog instrument that indicates measurement by a needle moving on a numbered background.		
 	61600		muddy the waters	confuse the situation	Andy’s just muddying the waters with his irrelevant comments.			
 	61700		mum’s the word	don’t tell anyone	Mum’s the word. This is supposed to be a surprise party.			
-GroupN
+			N Group
 **	61800		nail (one’s) colors to the mast	declare absolute determination not to yield	I’ve nailed my colors to the mast on this issue. I’m not giving an inch.	Alludes to the historic practice in naval warfare of nailing the ship’s flag to the mask to show it will not be lowered in surrender.		
 	61900		nailed down	planned in detail	Do we have the schedule nailed down yet? We’re supposed to get started on the project next week.			
 	62000		neck and neck	in close competition	The polls show the candidates running neck and neck and the election’s only days away.	Alludes to horse racing, where two horses running side by side are said to be neck and neck.		
@@ -660,7 +660,7 @@ GroupN
 	64400		not ready for prime time	not complete and polished	Andy’s science project is coming along nicely, but it’s not ready for prime time.	Alludes to a TV show being of sufficient quality to be shown during prime viewing hours.		
 	64500		nothing to write home about	unexciting	That was a decent play but nothing to write home about.			
 	64600		nothing up (one’s) sleeve	no hidden resources	I’ve got nothing up my sleeve. What you see here is all I’ve got to work with. 	Alludes to the possibility of cheating at cards by hiding cards up one’s sleeve.		
-GroupO
+			O Group
 	64700	an	odd duck	eccentric	Andy’s a bit of an odd duck. He always approaches problems a bit differently.			
 	64800		odds and ends	insignificant items	We’ve moved all the important stuff. There are just odds and ends left.	Probably alludes to the historical phrase \		
 	64900		off base	wrong	I think that estimate is significantly off base.	Alludes to baseball, where a player off base is at risk of being put out.		
@@ -723,7 +723,7 @@ GroupO
 	70600		over a barrel	in a very vulnerable position	They have us over a barrel. We have no option but to take their offer.	Possibly alludes to the historical method of rolling a drowning victim over a barrel to attempt resuscitation.		
 	70700		over the top	extreme	The light show at that concert was completely over the top.			
 	70800	an	own goal	self-inflicted damage	That witness didn’t help us at all. Calling him to testify might have been an own goal.	Alludes to sports like hockey or soccer where a player can accidentally send the puck or ball into his or her own goal and score a point for the opposing team.		
-GroupP
+			P Group
 	70900		paint the town red	celebrate publicly and enthusiastically	We just found out we both passed the bar, so we’re out to paint the town red!			
 	71000		pan out	prove accurate	I thought I found a source for antique woodworking tools, but it didn’t pan out.	Probably alludes to panning for gold, where the phrase refers to a claim that yielded results.		
 	71100	a	paper tiger	only apparently strong	He’s won his last few matches, but I think he’s really a paper tiger. 			
@@ -808,8 +808,8 @@ GroupP
 	79000		put through the wringer	caused to suffer excessively	Andy has been put through the wringer this term. He’s simply exhausted.	Probably alludes to the wringer previously attached to washing machines to squeeze the water out of wet clothes.		
 	79100		put up or shut up	prove yourself	We’ve heard how good you are at this, but now it’s time to put up or shut up.	Probably alludes to gambling, where the phrase directed a player to either ante up or withdraw.		
 **	79200		pyramid scheme					
-GroupQ
-GroupR
+			Q Group
+			R Group
 	79300		rain cats and dogs	rain extremely hard	Grab your rain gear. It’s raining cats and dogs out there.	animals slipping off straw roofs in the rain [??]		
 	79400		rain on (one’s) parade	spoil (one)’s fun	I hate to rain on your parade, but we still don’t know who won the election.			
 	79500		raise (or up) (one’s) game	operate at a higher level	Andy needs to raise her game if she wants to succeed in law school. 			
@@ -872,7 +872,7 @@ GroupR
 **	85200		run over by a Mack truck					
 **	85300		run the gamut	include the complete range	The students’ answers run the gamut from completely ridiculous to very insightful.			
 	85400		run the table	succeed from start to finish	She’s dealt with every question so far. I think she might run the table.	Alludes to the game of pool, where the phrase refers to pocketing all one’s remaining balls to win the game.		
-GroupS
+			S Group
 	85500		saber rattling	making empty threats	I believe he’s just saber rattling. I don’t think he really intends to punish anyone for that prank. 			
 	85600	a	sacred cow	revered	This tradition is a sacred cow around here. Criticize it at your own risk.	Alludes to Hinduism, where cows are venerated, they cannot be harmed, and eating beef is prohibited		Implies reverence for no currently discernible reason.
 	85700		sacrificial lamb	person designated for punishment 	Even though we’re all at fault, it looks like Andy is our sacrificial lamb. 	Alludes to the ancient Abrahamic religious tradition of sacrificing a lamb, a very valuable possession, to curry the favor of God.		Implies that the designated person is not guilty of any transgression.
@@ -991,7 +991,7 @@ GroupS
 	97100	the	sweet spot	the most effective application	I’m getting better at using the new XXXX, but I haven’t quite found the sweet spot yet.	Alludes to idea that there’s a spot on a tennis racquet, a golf club, a baseball bat, etc. that applies force most effectively.		
 	97200		sweeten the pot	increase the reward	Andy has several good job offers besides ours, so I think we need to sweeten the pot. 	Alludes to poker and other gambling games, where the phrase indicates adding money to the betting pool.		
 	97300		swing for the fences	attempt a decisive action	Andy is not taking any partial measures. He’s swinging for the fences. 	Alludes to baseball, where the phrase indicates a batter swinging for a home run.		
-GroupT
+			T Group
 	97400	a	tag team	a pair of people coordinating closely	Andy and I are working like a tag team to wear our boss down and get her agreement.	Alludes to wrestling, where the phrase indicates a wrestler in the ring tagging another outside the ring to exchange places.		
 	97500		tag-team	coordinate closely	Andy and I are tag-teaming our boss to wear her down and get her agreement.	Alludes to wrestling, where the phrase indicates a wrestler in the ring tagging another outside the ring to exchange places.		
 **	97600	the	tail wagging the dog	an unimportant issue taking precedence	This is a case of the tail wagging the dog,  isn’t it? We’ve been responding to the demands of just one customer when we should be looking at our whole strategy.			
@@ -1074,7 +1074,7 @@ GroupT
 	105300		turn the other cheek	accept further abuse	He’s insulted me too often. I can no longer turn the other cheek.	Alludes to the Biblical story (<b><i>Luke 6:29</i></b>) in which Jesus urges his followers to love their enemies and, when struck on one cheek, turn the other and allow it to be struck.		
 	105400		twisting in the wind	abandoned	Andy’s so-called friends left her twisting in the wind when it was time to take responsibility.	Alludes to the corpse of a hanged person left dangling and twisting in the open air as a warning to others.		Implies abandonment by supposed allies.
 	105500	(one’s)	two cents worth	opinion	I put in my two cents worth, but no one wanted my advice. 	Alludes to a similar British phrase of unclear origin that uses \		
-GroupU
+			U Group
 	105600		under (one’s) wing	under (one’s) mentoring	Andy likes to take new employees under her wing and help them get adjusted.	Alludes to a chicken or other fowl keeping her chicks under her wing for protection.		
 	105700		under the gun	under severe pressure	They’ve just shortened our deadline! Now we’re really under the gun.			
 	105800		under the hood	into the details	Andy really likes to get under the hood. You can expect her to check every detail.	Alludes to repairing automobiles, where the phrase indicates to work on the basic mechanisms and parts of the engine. 		
@@ -1091,9 +1091,9 @@ GroupU
 	106900	the	upper crust	the upper class	I had no idea that Andy’s friends were so upper crust.	Alludes to the preferred crust of a pie or load of bread.		
 	107000		upset the applecart	cause trouble	I don’t want to upset the applecart, but you’re missing some important information.			
 	107100	the	usual suspects	the people who are usually involved	I thought there might be some new faces at lunch, but it was just the usual suspects.	Of unknown origin, but famously used in the final scenes of the 1942 film <b><i>Casablanca</i></b>. 		
-GroupV
+			V Group
 	107200		voted off the island	rejected	Why do I feel like I’ve been voted off the island? Did I offend someone?	Alludes to the reality television show <b><i>Survivor</i></b> that was set in an isolated location, often an island, and in which individuals are eliminated from the competition by being voted out by other competitors.		
-GroupW
+			W Group
 	107300		waiting for the other shoe to drop	waiting for the bad news	So far it seems like all good news, but we keep waiting for the other shoe to drop.	Alludes to waiting for one’s neighbor in the apartment above to remove and drop their second shoe after the first has been removed and dropped on the floor.		Implies that good news has already been received.
 	107400		waiting in the wings	waiting for an opportunity	Andy’s been waiting in the wings for too long and she’s getting impatient.	Alludes to the offstage area of a theater (the \		
 	107500		wake a sleeping giant	rouse a powerful force from inactivity	Please don’t make Andy angry. You’d be waking a sleeping giant.	Possibly alludes to the fairy tale \		
@@ -1148,10 +1148,10 @@ GroupW
 **	112300		world is (one’s) oyster	(one) feels immensely successful and able to accomplish anything desired				
 	112400		worth (one’s) salt	competent and contributing	Andy has proved he’s worth his salt.			
 	112500		wrong side of the tracks	a disadvantaged background	They say she’s from the wrong side of the tracks, but no one really knows her background.			Can imply a shady background.
-GroupX
-GroupY
+			X Group
+			Y Group
 **	112600		yellow streak	fear				
 	112700		young Turk	young ambitious person	The new hires are a bunch of young Turks who expect to change the way we do things.	Turkish history		
 	112800		your mileage may vary	your situation may differ	I got good results with the latest version, but your mileage may vary.	Disclaimers in auto ads		
 	112900		your nose is growing	you’re lying	Come on, your nose is growing with every word out of your mouth. It’s time to tell us the truth.	<b><i>Pinocchio</i></b>		
-GroupZ
+			Z Group
