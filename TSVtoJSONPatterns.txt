@@ -14,7 +14,7 @@ Fix up groups
 
 \t\t\t([#A-Z]) Group\t\t\t\t\t
 
-      ]\n    },\n    {\n      "name": "\1",\n      "idioms": [\n
+]\n},\n{\n"name": "\1",\n"idioms": [\n
 
 ------------
 Fix up idioms
@@ -22,7 +22,7 @@ Fix up idioms
 (\*\*)?\t(\d+)\t(.*)(?#Pre)\t(.*)(?#Key)\t(.*)(?#Par)\t(.*)(?#Exa)\t(.*)(?#Ori)\t(.*)(?#Com)\t(.*)(?#Ref)\n
 
 {
-"onhold": "\1",
+"onHold": "\1",
 "id": "\2",
 "prewords": "\3",
 "keywords": "\4",
@@ -36,9 +36,9 @@ Fix up idioms
 ------------
 Remove comma after last idiom in each Group
 
-},\n      ]
+},\n\s*]
 
-}\n      ]
+}\n ]
 
 ------------
 Remove empty references
@@ -47,6 +47,8 @@ Remove empty references
 
 \n
 
+------------
+Remove empty onHolds, origins, comments (be careful of commas)
 ------------
 Fix header
 
@@ -61,7 +63,7 @@ Replace first three lines with:
     {
 
 ------------
-Fix empty Z group
+Fix footer and empty Z group
 
 Remove final comma and append:
 
