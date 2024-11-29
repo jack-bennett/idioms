@@ -1,20 +1,12 @@
 {
   "version": {
     "major": 1,
-    "minor": 6
+    "minor": 5
   },
   "groups": [
     {
       "name": "#",
       "idioms": [
-          {
-            "id": "10",
-            "prewords": "",
-            "keywords": "from project",
-            "paraphrase": "the basics of (something)",
-            "example": "Your bike’s in bad shape. You’re ready for Bicycle Maintenance 101.",
-            "origin": "Alludes to the supposed practice of assigning 101 as the number of any introductory college class."
-          },
           {
             "id": "100",
             "prewords": "",
